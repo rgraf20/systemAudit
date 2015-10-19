@@ -1,0 +1,2348 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<components>
+  <system>
+    <mac>14:DA:E9:C9:3F:09</mac>
+    <status>OFFLINE</status>
+  </system>
+  <motherboard>
+    <SerialNumber>BSN12345678901234567</SerialNumber>
+    <Manufacturer>ASUSTeK Computer Inc.</Manufacturer>
+    <Model>N/A</Model>
+  </motherboard>
+  <bios>
+    <SerialNumber>B8N0AS776561355</SerialNumber>
+    <Manufacturer>American Megatrends Inc.</Manufacturer>
+    <Name>BIOS Date: 08/10/11 12:28:49 Ver: 04.06.03</Name>
+  </bios>
+  <memory>
+    <SerialNumber>5229C942</SerialNumber>
+    <Description>Memoria física</Description>
+    <Capacity>4294967296</Capacity>
+  </memory>
+  <video>
+    <DeviceID>VideoController1</DeviceID>
+    <AdapterCompatibility>NVIDIA</AdapterCompatibility>
+    <Description>NVIDIA GeForce GT 540M</Description>
+    <AdapterRAM>2147483648</AdapterRAM>
+  </video>
+  <processor>
+    <ProcessorId>BFEBFBFF000206A7</ProcessorId>
+    <Manufacturer>GenuineIntel</Manufacturer>
+    <Name>Intel(R) Core(TM) i7-2670QM CPU @ 2.20GHz</Name>
+    <Description>Intel64 Family 6 Model 42 Stepping 7</Description>
+    <MaxClockSpeed>2201</MaxClockSpeed>
+    <NumberOfCores>4</NumberOfCores>
+    <NumberOfLogicalProcessors>8</NumberOfLogicalProcessors>
+  </processor>
+  <network>
+    <DeviceID>7</DeviceID>
+    <Manufacturer>Realtek</Manufacturer>
+    <Description>Realtek PCIe GBE Family Controller</Description>
+    <ip>192.168.1.137</ip>
+    <mask>255.255.255.0</mask>
+    <DefaultIPGateway>192.168.1.1</DefaultIPGateway>
+    <broadcasting>192.168.1.255</broadcasting>
+    <dns>87.216.1.65, 87.216.1.66</dns>
+  </network>
+  <disk>
+    <SerialNumber>W -DXW185A316993</SerialNumber>
+    <DeviceID>C:</DeviceID>
+    <Manufacturer>(Unidades de disco estándar)</Manufacturer>
+    <Model>WDC WD7500BPVT-80HXZT3</Model>
+    <FileSystem>NTFS</FileSystem>
+    <Size>300061552640</Size>
+    <FreeSpace>26179952640</FreeSpace>
+  </disk>
+  <windows>
+    <SerialNumber>00426-OEM-8992662-00400</SerialNumber>
+    <Caption>Microsoft Windows 7 Ultimate</Caption>
+    <Version>6.1.7601</Version>
+    <hostname>Ruben-laptop</hostname>
+    <workgroup>WORKGROUP</workgroup>
+    <RegisteredUser>Ruben</RegisteredUser>
+    <RegisteredPassword>patata</RegisteredPassword>
+    <CountryCode>34</CountryCode>
+  </windows>
+  <sw>
+    <program>
+      <IdentifyingNumber>{9EC952A0-A070-4309-A371-35D9A5B8AFB5}</IdentifyingNumber>
+      <Name>MySQL Connector J</Name>
+      <Version>5.1.27</Version>
+      <Vendor>Oracle Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{61D450D2-65F0-4C6A-9314-73F31C6BF468}</IdentifyingNumber>
+      <Name>Secure Download Manager</Name>
+      <Version>3.0.5</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{1FE018F8-2470-4E64-89BD-D2D097CE7780}</IdentifyingNumber>
+      <Name>db4o 8.0</Name>
+      <Version>8.0.000</Version>
+      <Vendor>Versant Corp.</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{0BE47A0B-0151-45E7-8015-FF148E0AEE4F}</IdentifyingNumber>
+      <Name>HP Product FWUpdater</Name>
+      <Version>4.0.0.7242</Version>
+      <Vendor>Hewlett-Packard Company</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{CA3DD97D-1FD7-37A7-BD5C-FC4430C8B8E6}</IdentifyingNumber>
+      <Name>Google Talk Plugin</Name>
+      <Version>5.41.2.0</Version>
+      <Vendor>Google</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{D8F06AFE-ADFC-4F6B-BBFF-274D78FDD07A}</IdentifyingNumber>
+      <Name>Node.js</Name>
+      <Version>0.10.24</Version>
+      <Vendor>Joyent, Inc. and other Node contributors</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90120000-0030-0000-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office Enterprise 2007</Name>
+      <Version>12.0.6612.1000</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90120000-00A1-0C0A-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office OneNote MUI (Spanish) 2007</Name>
+      <Version>12.0.6612.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90120000-0044-0C0A-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office InfoPath MUI (Spanish) 2007</Name>
+      <Version>12.0.6612.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90120000-0015-0C0A-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office Access MUI (Spanish) 2007</Name>
+      <Version>12.0.6612.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90120000-0016-0C0A-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office Excel MUI (Spanish) 2007</Name>
+      <Version>12.0.6612.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90120000-0018-0C0A-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office PowerPoint MUI (Spanish) 2007</Name>
+      <Version>12.0.6612.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90120000-0019-0C0A-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office Publisher MUI (Spanish) 2007</Name>
+      <Version>12.0.6612.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90120000-001A-0C0A-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office Outlook MUI (Spanish) 2007</Name>
+      <Version>12.0.6612.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90120000-002A-0000-1000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office Office 64-bit Components 2007</Name>
+      <Version>12.0.6612.1000</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90120000-002A-0C0A-1000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office Shared 64-bit MUI (Spanish) 2007</Name>
+      <Version>12.0.6612.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90120000-00BA-0C0A-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office Groove MUI (Spanish) 2007</Name>
+      <Version>12.0.6612.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90120000-001B-0C0A-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office Word MUI (Spanish) 2007</Name>
+      <Version>12.0.6612.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90120000-002C-0C0A-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office Proofing (Spanish) 2007</Name>
+      <Version>12.0.4518.1014</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90120000-006E-0C0A-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office Shared MUI (Spanish) 2007</Name>
+      <Version>12.0.6612.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90120000-001F-0403-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office Proof (Catalan) 2007</Name>
+      <Version>12.0.6612.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90120000-001F-0416-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office Proof (Portuguese (Brazil)) 2007</Name>
+      <Version>12.0.6612.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90120000-001F-0456-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office Proof (Galician) 2007</Name>
+      <Version>12.0.6612.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90120000-001F-0409-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office Proof (English) 2007</Name>
+      <Version>12.0.6612.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90120000-001F-0C0A-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office Proof (Spanish) 2007</Name>
+      <Version>12.0.6612.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90120000-001F-040C-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office Proof (French) 2007</Name>
+      <Version>12.0.6612.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90120000-001F-042D-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office Proof (Basque) 2007</Name>
+      <Version>12.0.6612.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{95120000-00B9-0409-1000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Application Error Reporting</Name>
+      <Version>12.0.6015.5000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://support.microsoft.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90140000-00A1-0C0A-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office OneNote MUI (Spanish) 2010</Name>
+      <Version>14.0.6029.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90140000-0044-0C0A-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office InfoPath MUI (Spanish) 2010</Name>
+      <Version>14.0.6029.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90140000-2005-0000-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office File Validation Add-In</Name>
+      <Version>14.0.5130.5003</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90140000-0015-0C0A-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office Access MUI (Spanish) 2010</Name>
+      <Version>14.0.6029.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90140000-0016-0C0A-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office Excel MUI (Spanish) 2010</Name>
+      <Version>14.0.6029.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90140000-0018-0C0A-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office PowerPoint MUI (Spanish) 2010</Name>
+      <Version>14.0.6029.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90140000-0019-0C0A-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office Publisher MUI (Spanish) 2010</Name>
+      <Version>14.0.6029.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90140000-001A-0C0A-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office Outlook MUI (Spanish) 2010</Name>
+      <Version>14.0.6029.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90140000-002A-0C0A-1000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office Shared 64-bit MUI (Spanish) 2010</Name>
+      <Version>14.0.6029.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90140000-00BA-0C0A-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office Groove MUI (Spanish) 2010</Name>
+      <Version>14.0.6029.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90140000-001B-0C0A-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office Word MUI (Spanish) 2010</Name>
+      <Version>14.0.6029.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90140000-002C-0C0A-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office Proofing (Spanish) 2010</Name>
+      <Version>14.0.6029.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90140000-006E-0C0A-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office Shared MUI (Spanish) 2010</Name>
+      <Version>14.0.6029.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90140000-001F-0403-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office Proof (Catalan) 2010</Name>
+      <Version>14.0.6029.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90140000-001F-0416-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office Proof (Portuguese (Brazil)) 2010</Name>
+      <Version>14.0.6029.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90140000-001F-0456-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office Proof (Galician) 2010</Name>
+      <Version>14.0.6029.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90140000-001F-0409-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office Proof (English) 2010</Name>
+      <Version>14.0.6029.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90140000-001F-0C0A-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office Proof (Spanish) 2010</Name>
+      <Version>14.0.6029.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90140000-001F-040C-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office Proof (French) 2010</Name>
+      <Version>14.0.6029.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90140000-001F-042D-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office Proof (Basque) 2010</Name>
+      <Version>14.0.6029.1000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Office\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C1BE4600-7D15-3D1E-8AA2-B3241DB1D063}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio Ultimate 2012 XAML UI Designer Core</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{4ED22240-0F24-C32A-188C-A481B2781B25}</IdentifyingNumber>
+      <Name>LocalESPCui for es-es</Name>
+      <Version>8.59.25584</Version>
+      <Vendor>Microsoft</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{0ECDB550-79ED-4E9E-851B-19A8B2B4EBFA}</IdentifyingNumber>
+      <Name>LibreOffice 4.2.2.1</Name>
+      <Version>4.2.2.1</Version>
+      <Vendor>The Document Foundation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\LibreOffice 4\</InstallLocation>
+      <URLInfoAbout>http://www.documentfoundation.org</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{981EEE60-0CF6-48EB-923D-94A9D0F2B817}</IdentifyingNumber>
+      <Name>HPLJUTM401</Name>
+      <Version>3.00.0003</Version>
+      <Vendor>HP</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{2B997E80-3BEC-3222-9114-98DBE1182B2E}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2012 x64 Debug Runtime - 11.0.50727</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{CB099890-1D5F-11D5-9EA9-0050BAE317E1}</IdentifyingNumber>
+      <Name>PowerDirector</Name>
+      <Version>7.00.0000</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>C:\Program Files (x86)\CyberLink\PowerDirector\</InstallLocation>
+      <URLInfoAbout>http://www.CyberLink.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{943CC0C0-2253-4FE0-9493-DD386F7857FD}</IdentifyingNumber>
+      <Name>Nero Express</Name>
+      <Version>9.0.0.0</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{8C654BD0-1949-43DE-84F2-EC2A1ABB0CB4}</IdentifyingNumber>
+      <Name>Nero ShowTime</Name>
+      <Version>4.99.0.0</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{548F99E0-14CC-4D53-A7D6-4A62A5F2C748}</IdentifyingNumber>
+      <Name>Nero PhotoSnap</Name>
+      <Version>1.53.2.0</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{B96C2601-52F5-4D5D-816A-63469EA311EF}</IdentifyingNumber>
+      <Name>"Nero SoundTrax Help</Name>
+      <Version>4.0.15.0</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{25680C01-6753-4FE9-A891-7857F26457C1}</IdentifyingNumber>
+      <Name>Intel(R) WiDi</Name>
+      <Version>2.1.35.0</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Intel Corporation\Intel WiDi\</InstallLocation>
+      <URLInfoAbout>http://www.intel.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{E5B21F11-6933-4E0B-A25C-7963E3C07D11}</IdentifyingNumber>
+      <Name>Windows Live Messenger</Name>
+      <Version>15.4.3538.0513</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A46A6021-355D-4909-8A03-C35D332A6578}</IdentifyingNumber>
+      <Name>Microsoft System CLR Types para SQL Server 2012 (x64)</Name>
+      <Version>11.0.2100.60</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{3097B151-1F61-4211-A4CC-D70127B226AE}</IdentifyingNumber>
+      <Name>SoundTrax</Name>
+      <Version>4.0.18.0</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{350AA351-21FA-3270-8B7A-835434E766AD}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2008 Redistributable - x64 9.0.21022</Name>
+      <Version>9.0.21022</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{78523651-D8B1-11DC-CCEE-741589645873}</IdentifyingNumber>
+      <Name>Nero DiscSpeed</Name>
+      <Version>4.99.5.105</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{3F30CC51-0788-487B-AA83-7214A239C0C0}</IdentifyingNumber>
+      <Name>Nero Disc Copy Gadget Help</Name>
+      <Version>2.0.0.0</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{42335F51-334C-4805-9FFC-3A33F40A245D}</IdentifyingNumber>
+      <Name>Requisitos previos para SSDT</Name>
+      <Version>11.0.2100.60</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{64452561-169F-4A36-A2FF-B5E118EC65F5}</IdentifyingNumber>
+      <Name>ASUS SmartLogon</Name>
+      <Version>1.0.0011</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://www.asus.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{DAA3E771-CB41-40A4-8AAF-258BA650B0AA}</IdentifyingNumber>
+      <Name>Microsoft .NET Framework 4.5 SDK - Paquete de idioma ESN</Name>
+      <Version>4.5.50709</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{02213A81-CB13-7262-5ABE-1FFA2C75559F}</IdentifyingNumber>
+      <Name>Windows App Certification Kit x64</Name>
+      <Version>8.59.25584</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{1D8E6291-B0D5-35EC-8441-6616F567A0F7}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219</Name>
+      <Version>10.0.40219</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{ad8a2fa1-06e7-4b0d-927d-6e54b3d31028}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2005 Redistributable (x64)</Name>
+      <Version>8.0.61000</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{9C70E6C1-FE93-3CA4-AFE8-CD3C016C2892}</IdentifyingNumber>
+      <Name>Visual Studio 2012 Prerequisites - ESN Language Pack</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{34125BC1-5C0C-340A-BC4E-1264575D2441}</IdentifyingNumber>
+      <Name>Microsoft Portable Library Multi-Targeting Pack Language Pack - esn</Name>
+      <Version>11.0.50709.17929</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219</Name>
+      <Version>10.0.40219</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{1DBD1F12-ED93-49C0-A7CC-56CBDE488158}</IdentifyingNumber>
+      <Name>ASUS LifeFrame3</Name>
+      <Version>3.0.21</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>www.asus.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{41564952-412D-5637-4300-A758B70C1C01}</IdentifyingNumber>
+      <Name>Avira SearchFree Toolbar</Name>
+      <Version>12.28.1.1269</Version>
+      <Vendor>APN, LLC</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{05A7B662-80A3-4EB9-AE1D-89A62449431C}</IdentifyingNumber>
+      <Name>Oracle Database 11g Express Edition</Name>
+      <Version>11.2.0</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>C:\oraclexe\</InstallLocation>
+      <URLInfoAbout>http://www.oracle.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{247E8762-752C-4F2C-9CE2-A2BE787A1C19}</IdentifyingNumber>
+      <Name>Microsoft System CLR Types para SQL Server 2012</Name>
+      <Version>11.0.2100.60</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{200FEC62-3C34-4D60-9CE8-EC372E01C08F}</IdentifyingNumber>
+      <Name>Windows Live SOXE Definitions</Name>
+      <Version>15.4.3502.0922</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{DF5FCA82-ABFC-4DA4-A456-6AD0083746BD}</IdentifyingNumber>
+      <Name>Microsoft SQL Server Data Tools Build Utilities - ESN (11.1.20627.00)</Name>
+      <Version>11.1.20627.00</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{6F07A6C2-9068-3673-A120-DC10012468C6}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio Team Foundation Server 2012 Object Model</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{4E8C27C2-D727-4C00-A90E-C3F6376EEE70}</IdentifyingNumber>
+      <Name>Nero ControlCenter</Name>
+      <Version>9.0.0.1</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{5E4DD8C2-A906-4F1B-94B6-4F6A51D625B2}</IdentifyingNumber>
+      <Name>HPLJDXPHelper</Name>
+      <Version>020.021.004</Version>
+      <Vendor>HP</Vendor>
+      <InstallLocation>C:\Program Files (x86)\HP\Common\LJDXPHelper\</InstallLocation>
+      <URLInfoAbout>http://www.HP.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{6F1C00D2-25C2-4CBA-8126-AE9A6E2E9CD5}</IdentifyingNumber>
+      <Name>HP Update</Name>
+      <Version>5.003.003.001</Version>
+      <Vendor>Hewlett-Packard</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Hp\HP Software Update</InstallLocation>
+      <URLInfoAbout>http://www.hp.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{1F8E06E2-BA93-40DC-B183-E024CBD853A8}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2012 Compilers</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{0C1DE303-E41B-44BA-8ABA-B7F09D857001}</IdentifyingNumber>
+      <Name>Oracle VM VirtualBox 4.2.12</Name>
+      <Version>4.2.12</Version>
+      <Vendor>Oracle Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://www.virtualbox.org</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{B7307613-51D1-40EA-80CD-4A5A71CC657B}</IdentifyingNumber>
+      <Name>TortoiseGit 1.8.7.0 (64 bit)</Name>
+      <Version>1.8.7.0</Version>
+      <Vendor>TortoiseGit</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://tortoisegit.org/</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{180D6813-95E0-415C-B58A-5B9493DE2DDA}</IdentifyingNumber>
+      <Name>hppLaserJetService</Name>
+      <Version>009.027.00856</Version>
+      <Vendor>Hewlett-Packard</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://www.hp.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{1C163D33-33B3-33EB-A617-0D4D852BE8E1}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2012 x86 Debug Runtime - 11.0.50727</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{5FB4C443-6BD6-1514-2717-3827D65AE6FB}</IdentifyingNumber>
+      <Name>Windows Software Development Kit DirectX x64 Remote</Name>
+      <Version>8.59.25584</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{1B040683-C390-4711-ABC7-DA8D85E470E7}</IdentifyingNumber>
+      <Name>NeroBurningROM</Name>
+      <Version>9.0.9.100</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{04D5FF83-C0AC-48AB-A685-287BEC407007}</IdentifyingNumber>
+      <Name>Recursos (mínimos) de Microsoft Visual Studio 2012 Shell</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{07FF7593-9DEA-40B5-9F87-F557E65BBF60}</IdentifyingNumber>
+      <Name>Nero Recode</Name>
+      <Version>3.53.0.0</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C99C89A3-119A-45E6-B26E-DD5643CAA0C5}</IdentifyingNumber>
+      <Name>Menu Templates - Starter Kit</Name>
+      <Version>9.0.4.0</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{82A58AA3-13AB-47FE-B519-82A7138050B1}</IdentifyingNumber>
+      <Name>hpbM401DSService</Name>
+      <Version>001.001.05874</Version>
+      <Vendor>Hewlett-Packard</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://www.hp.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{5C9BB0B3-E830-4814-BBA4-D93535E1C7B9}</IdentifyingNumber>
+      <Name>Nero Live</Name>
+      <Version>1.0.164.0</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{D45240D3-B6B3-4FF9-B243-54ECE3E10066}</IdentifyingNumber>
+      <Name>Windows Live Communications Platform</Name>
+      <Version>15.4.3502.0922</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{73E68BD3-5ABA-4529-A2C8-4ECED6952092}</IdentifyingNumber>
+      <Name>Microsoft SQL Server System CLR Types</Name>
+      <Version>10.50.1600.1</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{6DAB46E3-D017-3E2B-85D8-F57A230384C0}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio Team Foundation Server 2012 Team Explorer</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{5CBFF3F3-2D40-34EE-BCA5-A95BC19E400D}</IdentifyingNumber>
+      <Name>Microsoft .NET Framework 4.5 Multi-Targeting Pack</Name>
+      <Version>4.5.50709</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{13F4A7F3-EABC-4261-AF6B-1317777F0755}</IdentifyingNumber>
+      <Name>Fast Boot</Name>
+      <Version>1.0.9</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{8CD5ABF3-C30B-4A94-811F-0A2C5510B72C}</IdentifyingNumber>
+      <Name>Microsoft Silverlight 5 SDK - ESN</Name>
+      <Version>5.0.61118.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{57F20F04-014D-453F-B6A3-AE9485C4DFAB}</IdentifyingNumber>
+      <Name>Blend for Visual Studio 2012</Name>
+      <Version>5.0.30709.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Visual Studio 11.0\Blend\</InstallLocation>
+      <URLInfoAbout>http://go.microsoft.com/fwlink/?LinkID=75064</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{1FBF6C24-C1FD-4101-A42B-0C564F9E8E79}</IdentifyingNumber>
+      <Name>PowerStarter</Name>
+      <Version>6.00.0000</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Cyberlink\DVD Suite\</InstallLocation>
+      <URLInfoAbout>http://www.CyberLink.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{AAA12554-2589-11DC-92EF-E98356D81493}</IdentifyingNumber>
+      <Name>Nero InfoTool</Name>
+      <Version>5.99.5.105</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{75321954-2589-11DC-DDCC-E98356D81493}</IdentifyingNumber>
+      <Name>Nero DriveSpeed</Name>
+      <Version>3.99.5.105</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{AABBCC54-D8B1-11DC-92EF-E98356D81493}</IdentifyingNumber>
+      <Name>Nero DiscSpeed</Name>
+      <Version>4.99.5.105</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{EA9FFE54-D8B1-11DC-92EF-E98356D81493}</IdentifyingNumber>
+      <Name>Nero BurnRights</Name>
+      <Version>2.99.6.100</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{CEFF6074-EC9D-42AF-AAD3-12F2D4123C6E}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2012 Compilers - ESN Resources</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{12345674-DE9A-677A-CCEE-666356D89777}</IdentifyingNumber>
+      <Name>Nero BurnRights</Name>
+      <Version>2.99.6.100</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{78B46A74-9844-4C2E-8BBE-DFA72DCB5C3B}</IdentifyingNumber>
+      <Name>WCF Data Services Tools for Visual Studio 11 ESN Language Pack</Name>
+      <Version>5.0.50710.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{5AE12194-3EAA-40DF-B2BF-FE1D6B78BBF4}</IdentifyingNumber>
+      <Name>Nero Vision</Name>
+      <Version>0.0.0.1</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C4CAD994-6EA2-3121-8352-DA593150B322}</IdentifyingNumber>
+      <Name>Microsoft Portable Library Multi-Targeting Pack</Name>
+      <Version>11.0.50709.17929</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{753973C4-B961-43BF-B2D4-3C8C92F7216E}</IdentifyingNumber>
+      <Name>Nero DriveSpeed</Name>
+      <Version>3.99.5.105</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{1122AAC4-AAAA-43BF-B2D4-3C8C12378952}</IdentifyingNumber>
+      <Name>Nero InfoTool</Name>
+      <Version>5.99.5.105</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{26A24AE4-039D-4CA4-87B4-2F83216018FF}</IdentifyingNumber>
+      <Name>Java(TM) 6 Update 20</Name>
+      <Version>6.0.180</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Java\jre6\</InstallLocation>
+      <URLInfoAbout>http://java.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{26A24AE4-039D-4CA4-87B4-2F83217045FF}</IdentifyingNumber>
+      <Name>Java 7 Update 45</Name>
+      <Version>7.0.450</Version>
+      <Vendor>Oracle</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Java\jre7\</InstallLocation>
+      <URLInfoAbout>http://java.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{26A24AE4-039D-4CA4-87B4-2F86417045FF}</IdentifyingNumber>
+      <Name>Java 7 Update 45 (64-bit)</Name>
+      <Version>7.0.450</Version>
+      <Vendor>Oracle</Vendor>
+      <InstallLocation>C:\Program Files\Java\jre7\</InstallLocation>
+      <URLInfoAbout>http://java.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{32A3A4F4-B792-11D6-A78A-00B0D0170450}</IdentifyingNumber>
+      <Name>Java SE Development Kit 7 Update 45</Name>
+      <Version>1.7.0.450</Version>
+      <Vendor>Oracle</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Java\jdk1.7.0_45\</InstallLocation>
+      <URLInfoAbout>http://java.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{64A3A4F4-B792-11D6-A78A-00B0D0170450}</IdentifyingNumber>
+      <Name>Java SE Development Kit 7 Update 45 (64-bit)</Name>
+      <Version>1.7.0.450</Version>
+      <Vendor>Oracle</Vendor>
+      <InstallLocation>C:\Program Files\Java\jdk1.7.0_45\</InstallLocation>
+      <URLInfoAbout>http://java.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{4989DD05-86FB-4CA2-96C5-923DFAD89DA3}</IdentifyingNumber>
+      <Name>HPLaserJet400-M401_HelpLearnCenter_SI</Name>
+      <Version>1.01.0000</Version>
+      <Vendor>Hewlett-Packard</Vendor>
+      <InstallLocation>C:\Program Files (x86)\HP\HP LaserJet 400 M401\Help_Learn\</InstallLocation>
+      <URLInfoAbout>www.hp.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{0969AF05-4FF6-4C00-9406-43599238DE0D}</IdentifyingNumber>
+      <Name>ASUS Splendid Video Enhancement Technology</Name>
+      <Version>1.02.0031</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://www.asus.com.tw</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{5A62A775-A29A-4CE1-BBC2-4A9CD0B211EF}</IdentifyingNumber>
+      <Name>Nero Live Help</Name>
+      <Version>1.0.162.0</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{43740E95-0606-42CE-AEA7-E28AA1A6E4BF}</IdentifyingNumber>
+      <Name>Tools for .Net 3.5 - ESN Lang Pack</Name>
+      <Version>3.11.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{CD1826A5-CFCC-4C6E-9F9D-E181876162EA}</IdentifyingNumber>
+      <Name>Nero Rescue Agent</Name>
+      <Version>1.99.0.1</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{FC068FA5-1A3B-4926-9738-1239D7E756AC}</IdentifyingNumber>
+      <Name>Herramientas de recopilación de rendimiento de Microsoft Visual Studio 2012</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{E3A180B5-6020-4EA4-AD9D-742B53D1D2EC}</IdentifyingNumber>
+      <Name>Microsoft SQL Server 2012 Management Objects (x64)</Name>
+      <Version>11.0.2100.60</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{BCD82AB5-670D-4242-90FA-1F97103C16CD}</IdentifyingNumber>
+      <Name>Movie Templates - Starter Kit</Name>
+      <Version>9.0.4.0</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{6102FAC5-84EA-3E3F-9D45-3E9ADD8EEC72}</IdentifyingNumber>
+      <Name>Paquete de idioma de Microsoft Visual Studio Team Foundation Server 2012 Team Explorer - ESN</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{8BA936D5-DF17-44CF-B81F-4E0F94B8D865}</IdentifyingNumber>
+      <Name>Fresco Logic USB3.0 Host Controller</Name>
+      <Version>3.0.116.3</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>C:\Program Files\Fresco Logic Inc\Fresco Logic USB3.0 Host Controller\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{E86156E5-9859-440D-8876-26CED1349802}</IdentifyingNumber>
+      <Name>Nero WaveEditor Help</Name>
+      <Version>5.0.15.0</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{AA72C306-30BE-4BB1-9E42-59552BAD2CDF}</IdentifyingNumber>
+      <Name>Microsoft Web Deploy 3.0</Name>
+      <Version>3.1236.1631</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{55E00926-197C-4B98-87E5-B767007F205E}</IdentifyingNumber>
+      <Name>Sandcastle Documentation Compiler Tools</Name>
+      <Version>2.7.4.0</Version>
+      <Vendor>Microsoft</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://SHFB.CodePlex.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C30E2F36-6F30-433E-B399-02C240E6173E}</IdentifyingNumber>
+      <Name>Complemento Microsoft Report Viewer para Visual Studio 2012</Name>
+      <Version>11.1.2802.16</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{68FC0046-2F69-497C-ABCC-47C6C54AB253}</IdentifyingNumber>
+      <Name>Microsoft SQL Server 2012 Express LocalDB</Name>
+      <Version>11.0.2100.60</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{26784146-6E05-3FF9-9335-786C7C0FB5BE}</IdentifyingNumber>
+      <Name>Microsoft .NET Framework 4.5.2</Name>
+      <Version>4.5.51209</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://go.microsoft.com/fwlink/?LinkId=286133</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{F6C8C156-75B7-F1A5-10AA-773BCF321034}</IdentifyingNumber>
+      <Name>Nero 7 Demo</Name>
+      <Version>7.00.2425</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Nero\Nero 7\</InstallLocation>
+      <URLInfoAbout>http://www.nero.com/</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{42F61556-29ED-8122-F39E-6F04EA5FF279}</IdentifyingNumber>
+      <Name>Windows Software Development Kit for Windows Store Apps DirectX x86 Remote</Name>
+      <Version>8.59.25584</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{9A875B56-A35C-46BA-A3AA-DF8D03EE9F2F}</IdentifyingNumber>
+      <Name>Nero ControlCenter</Name>
+      <Version>0.0.0.1</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{1690CE56-2231-4E59-9006-A0876D949EA8}</IdentifyingNumber>
+      <Name>Tools for .Net 3.5</Name>
+      <Version>3.11.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{5FCE6D76-F5DC-37AB-B2B8-22AB8CEDB1D4}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161</Name>
+      <Version>9.0.30729.6161</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{31E8F586-4EF7-4500-844D-BA8756474FF1}</IdentifyingNumber>
+      <Name>Kit de instalación automatizada de Windows</Name>
+      <Version>2.0.0.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{AC76BA86-7AD7-1034-7B44-A95000000001}</IdentifyingNumber>
+      <Name>Adobe Reader 9.5.0 - Español</Name>
+      <Version>9.5.0</Version>
+      <Vendor>Adobe Systems Incorporated</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://www.adobe.es/products/acrobat/main.html</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{0EA5B5B6-4537-4989-B522-69772E79CE49}</IdentifyingNumber>
+      <Name>Microsoft SQL Server System CLR Types (x64)</Name>
+      <Version>10.50.1600.1</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{D7C206B6-1A63-4389-A8B1-8F607D0BFF1F}</IdentifyingNumber>
+      <Name>Nero StartSmart Help</Name>
+      <Version>9.0.0.0</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{9BE518E6-ECC6-35A9-88E4-87755C07200F}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161</Name>
+      <Version>9.0.30729.6161</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{F662A8E6-F4DC-41A2-901E-8C11F044BDEC}</IdentifyingNumber>
+      <Name>MSXML 4.0 SP2 (KB973688)</Name>
+      <Version>4.20.9876.0</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{372D17F6-A54E-4A01-B264-1314890FFE61}</IdentifyingNumber>
+      <Name>Dotfuscator and Analytics Community Edition</Name>
+      <Version>5.5.4521.29298</Version>
+      <Vendor>PreEmptive Solutions</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022</Name>
+      <Version>9.0.21022</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{F2A9CD57-2ABE-4041-A9CA-B63CD92F09AA}</IdentifyingNumber>
+      <Name>Steel Bank Common Lisp 1.1.4.0.mswin.1288-90ab477 (X86)</Name>
+      <Version>1.1.4.0</Version>
+      <Vendor>http://www.sbcl.org</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{E4A8DD87-A746-4443-BF25-CAF99CED6767}</IdentifyingNumber>
+      <Name>Nero Disc Copy Gadget</Name>
+      <Version>1.53.0.0</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{23176E97-26CB-C72A-19EB-BFB21AC1D15A}</IdentifyingNumber>
+      <Name>Windows Software Development Kit DirectX x86 Remote</Name>
+      <Version>8.59.25584</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{83C292B7-38A5-440B-A731-07070E81A64F}</IdentifyingNumber>
+      <Name>Windows Live PIMT Platform</Name>
+      <Version>15.4.3508.1109</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{E09C4DB7-630C-4F06-A631-8EA7239923AF}</IdentifyingNumber>
+      <Name>D3DX10</Name>
+      <Version>15.4.2368.0902</Version>
+      <Vendor>Microsoft</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{37B8F9C7-03FB-3253-8781-2517C99D7C00}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030</Name>
+      <Version>11.0.61030</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{E0476CC7-E960-49B8-AAC1-7F95931A3E6B}</IdentifyingNumber>
+      <Name>Microsoft SQL Server 2012 Management Objects</Name>
+      <Version>11.0.2100.60</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{EAECD0D7-F27D-4F13-8312-A9C0B5C5F1B7}</IdentifyingNumber>
+      <Name>LJDXPHelperUI</Name>
+      <Version>020.021.004</Version>
+      <Vendor>HP</Vendor>
+      <InstallLocation>C:\Program Files (x86)\HP\Common\LJDXPHelper\</InstallLocation>
+      <URLInfoAbout>http://www.HP.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{3FA063D7-EDC1-AFA8-54AF-0563C7DEE070}</IdentifyingNumber>
+      <Name>Windows App Certification Kit Native Components</Name>
+      <Version>8.59.25584</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{878CADF7-5BD6-4A29-A6F4-AC51C0CE8068}</IdentifyingNumber>
+      <Name>Alcor Micro USB Card Reader</Name>
+      <Version>1.8.17.26026</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>C:\Program Files (x86)\AmIcoSingLun\</InstallLocation>
+      <URLInfoAbout>http://www.alcormicro.com.tw</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{499DED08-6FA8-4749-8E94-8526CC9D1CA8}</IdentifyingNumber>
+      <Name>ExpressGate Cloud</Name>
+      <Version>2.1.88.405</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>C:\Users\Ruben\AppData\Local\Temp\EGC.TMP\</InstallLocation>
+      <URLInfoAbout>http://www.asus.com/</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{BC741628-0AFC-405C-8946-DD46D1005A0A}</IdentifyingNumber>
+      <Name>64 Bit HP CIO Components Installer</Name>
+      <Version>8.2.4</Version>
+      <Vendor>Hewlett-Packard</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{E3739848-5329-48E3-8D28-5BBD6E8BE384}</IdentifyingNumber>
+      <Name>MediaEspresso</Name>
+      <Version>6.00.0000</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Cyberlink\MediaEspresso\</InstallLocation>
+      <URLInfoAbout>http://www.CyberLink.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{20FDF948-C8ED-4543-A539-F7F4AEF5AFA2}</IdentifyingNumber>
+      <Name>Wireless Console 3</Name>
+      <Version>3.0.19</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A8399F58-234A-48C6-BA55-30C15738BF3C}</IdentifyingNumber>
+      <Name>Nero CoverDesigner</Name>
+      <Version>4.0.5.100</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{7CF7B268-71BE-4D04-9BFE-7CD831EB35CC}</IdentifyingNumber>
+      <Name>Blend for Visual Studio 2012 ESN resources</Name>
+      <Version>5.0.30709.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Visual Studio 11.0\Blend\</InstallLocation>
+      <URLInfoAbout>http://go.microsoft.com/fwlink/?LinkID=75064</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{330E5D98-20D2-4CA4-AE51-FCB8AA80F634}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio 2012 Devenv</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{2D3455A8-3B15-41A8-99F8-0D4215746463}</IdentifyingNumber>
+      <Name>Nero StartSmart</Name>
+      <Version>9.0.9.100</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{CFEF48A8-BFB8-3EAC-8BA5-DE4F8AA267CE}</IdentifyingNumber>
+      <Name>Microsoft .NET Framework 4 Multi-Targeting Pack</Name>
+      <Version>4.0.30319</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{93489CA8-6656-33A0-A5AC-E0EDEDB17C3E}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio Professional 2012</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{5C42EAB8-54F9-423A-948C-1CBEF25F8DB4}</IdentifyingNumber>
+      <Name>Nero PhotoSnap Help</Name>
+      <Version>1.53.2.0</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{9F3523F8-DAD7-AE52-6DA7-45CDDDF33726}</IdentifyingNumber>
+      <Name>Advertising Center</Name>
+      <Version>0.0.0.1</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{14CF9AF8-10A6-4FA7-9E57-D22DBD644C77}</IdentifyingNumber>
+      <Name>HP Unified IO</Name>
+      <Version>2.0.0.404</Version>
+      <Vendor>HP</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{2043EFF8-1E28-4514-AFF4-F9024E21E420}</IdentifyingNumber>
+      <Name>Sandcastle Help File Builder</Name>
+      <Version>1.9.8.0</Version>
+      <Vendor>EWSoftware</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://www.EWoodruff.us</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{04A6D409-95C9-4D9F-849A-E67FEEA2950C}</IdentifyingNumber>
+      <Name>hppM401LaserJetService</Name>
+      <Version>001.019.00639</Version>
+      <Vendor>Hewlett-Packard</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{7AE6C129-145B-3241-B82F-848E52B86BDA}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio Professional 2012 - ESN</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{38253529-D97D-4901-AE53-5CC9736D3A2E}</IdentifyingNumber>
+      <Name>ASUS AI Recovery</Name>
+      <Version>1.0.13</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{1948E039-EC79-4591-951D-9867A8C14C90}</IdentifyingNumber>
+      <Name>Microsoft .NET Framework 4.5 SDK</Name>
+      <Version>4.5.50709</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{53436849-2E5A-3433-A5BE-F7A10403C651}</IdentifyingNumber>
+      <Name>Paquete de idioma de Visor de Ayuda de Microsoft 2.0 - ESN</Name>
+      <Version>2.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{F07BB259-CA70-4443-9E32-7B1F3F2703C7}</IdentifyingNumber>
+      <Name>Microsoft Web Deploy dbSqlPackage Provider - ESN</Name>
+      <Version>10.3.20225.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{8E36F359-199F-48F4-BC0F-A321E77B4F8C}</IdentifyingNumber>
+      <Name>Microsoft Web Developer Tools - Visual Studio 2012 - ESN</Name>
+      <Version>1.0.30710.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{F53F6769-AC46-49E3-ABE3-2C8AFD39D0DD}</IdentifyingNumber>
+      <Name>Nero Vision</Name>
+      <Version>6.0.6.100</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{2A186F69-BCC4-4529-9F24-A8FFB7F4E1C9}</IdentifyingNumber>
+      <Name>HP LaserJet 400 M401 HP Device Toolbox</Name>
+      <Version>29.0.109.0</Version>
+      <Vendor>Hewlett-Packard Co.</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{34F97399-6C74-4309-841D-11139028CDE7}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio 2012 Tools para SQL Server Compact 4.0 SP1 ESN</Name>
+      <Version>4.0.8876.1</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{7BF61FA9-BDFB-4563-98AD-FCB0DA28CCC7}</IdentifyingNumber>
+      <Name>IIS 8.0 Express</Name>
+      <Version>8.0.1557</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{7437A4B9-314F-3B8F-827B-22909146E471}</IdentifyingNumber>
+      <Name>Microsoft LightSwitch for Visual Studio 2012 Core</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{048298C9-A4D3-490B-9FF9-AB023A9238F3}</IdentifyingNumber>
+      <Name>Steam</Name>
+      <Version>1.0.0.0</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://www.steampowered.com/</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{56BE5CC9-95E6-4128-ABEA-968414CA9C80}</IdentifyingNumber>
+      <Name>DolbyFiles</Name>
+      <Version>2.0</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{087B60D9-CC03-3E5D-B646-0334EA4BEB3E}</IdentifyingNumber>
+      <Name>Microsoft LightSwitch para Visual Studio 2012 CoreRes - ESN</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{F4D304D9-7647-4253-957E-44286B8631F4}</IdentifyingNumber>
+      <Name>HP Unified IO</Name>
+      <Version>2.0.0.404</Version>
+      <Vendor>HP</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{AB30E5D9-2BBF-4C75-B2B3-2EFC89CEE4DD}</IdentifyingNumber>
+      <Name>WCF Data Services 5.0 (for OData v3) ESN Language Pack</Name>
+      <Version>5.0.50628.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{6ce5bae9-d3ca-4b99-891a-1dc6c118a5fc}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2005 Redistributable (x64)</Name>
+      <Version>8.0.59192</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{3A523AF9-D32F-4C85-8388-0335731F3405}</IdentifyingNumber>
+      <Name>WCF RIA Services V1.0 SP2</Name>
+      <Version>4.1.61829.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{10D4450A-2985-4C2C-A0E4-0622EB094FE8}</IdentifyingNumber>
+      <Name>Recursos DevEnv de Microsoft Visual Studio 2012</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{BDBE5D2A-AAB7-77BD-7A0E-5006665CE7C6}</IdentifyingNumber>
+      <Name>LocalESPC</Name>
+      <Version>8.59.25584</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{AD1AEE2A-D9C0-3FAC-8D6B-B5E07B47257B}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2012 Core Libraries</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{60D5EF2A-4E0C-2C30-38F6-59C26E134F4A}</IdentifyingNumber>
+      <Name>Windows Software Development Kit</Name>
+      <Version>8.59.25584</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{B097793A-07F5-4781-BEE6-C4B14559FC4E}</IdentifyingNumber>
+      <Name>Entity Framework Designer para Visual Studio 2012 - ESN</Name>
+      <Version>11.1.20702.00</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{1DB43E5A-2F24-4F51-92B0-A2C0EBF5C742}</IdentifyingNumber>
+      <Name>Microsoft Report Viewer Add-On for Visual Studio 2012</Name>
+      <Version>11.1.2802.16</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{EEEFD86A-66B8-3117-8D50-733404E5910F}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio Ultimate 2012 XAML UI Designer esn Resources</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{8DD46C6A-0056-4FEC-B70A-28BB16A1F11F}</IdentifyingNumber>
+      <Name>MSVCRT</Name>
+      <Version>15.4.2862.0708</Version>
+      <Vendor>Microsoft</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{820C677A-41B2-48C3-8136-FEE35A052E73}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio 2012 Shell (Minimum) Interop Assemblies</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{89AF07BA-5B5E-442C-AF41-AA6C63E60749}</IdentifyingNumber>
+      <Name>Microsoft SQL Server 2012 Transact-SQL Compiler Service</Name>
+      <Version>11.0.2100.60</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{11A84FCA-C3C7-4AFD-A797-111DB8569DBC}</IdentifyingNumber>
+      <Name>Nero BurningROM</Name>
+      <Version>9.0.0.0</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{BA8D72DA-F407-4C9F-9650-DA8141F33BF4}</IdentifyingNumber>
+      <Name>MySQL Connector Net 6.6.6</Name>
+      <Version>6.6.6</Version>
+      <Vendor>Oracle</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://www.mysql.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{2C76E3DA-BA76-4FAD-B1B1-72B46D639028}</IdentifyingNumber>
+      <Name>PreEmptive Analytics Visual Studio Components</Name>
+      <Version>1.0.2180.1</Version>
+      <Vendor>PreEmptive Solutions</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://www.preemptive.com/products/runtime-intelligence/overview</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A53A11EA-0095-493F-86FA-A15E8A86A405}</IdentifyingNumber>
+      <Name>VMware Player</Name>
+      <Version>3.0.1.11056</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>C:\Program Files (x86)\VMware\VMware Player\</InstallLocation>
+      <URLInfoAbout>http://www.vmware.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{961D53EA-40DC-4156-AD74-25684CE05F81}</IdentifyingNumber>
+      <Name>Nero Installer</Name>
+      <Version>2.0.0.1</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{77477AEA-5757-47D8-8B33-939F43D82218}</IdentifyingNumber>
+      <Name>Windows Live UX Platform Language Pack</Name>
+      <Version>15.4.3508.1109</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{1A6A0DEA-3860-48DE-93C5-F5EDA8E521CA}</IdentifyingNumber>
+      <Name>HPDXP</Name>
+      <Version>3.0.26.1</Version>
+      <Vendor>HP</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{0711500B-9912-4D60-9A49-C577B4503D42}</IdentifyingNumber>
+      <Name>Nero Recode Help</Name>
+      <Version>3.53.0.0</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{B77EFA0B-9BD3-4122-9F9A-15A963B5EA24}</IdentifyingNumber>
+      <Name>Monitor de la tecnología Intel® Turbo Boost 2.0</Name>
+      <Version>2.1.23.0</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>C:\Program Files\Intel\TurboBoost\</InstallLocation>
+      <URLInfoAbout>http://www.intel.com/index.htm?es_ES_01</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{9652051B-BC94-4588-A84B-B9B34660FB5E}</IdentifyingNumber>
+      <Name>hpStatusAlertsM401</Name>
+      <Version>050.034.00131</Version>
+      <Vendor>Hewlett-Packard</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{7299052b-02a4-4627-81f2-1818da5d550d}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2005 Redistributable</Name>
+      <Version>8.0.56336</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{2B81872B-A054-48DA-BE3B-FA5C164C303A}</IdentifyingNumber>
+      <Name>ASUS FancyStart</Name>
+      <Version>1.1.0</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://www.asus.com/</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{E1355B2B-5093-4917-8F44-F253B0A6F0F2}</IdentifyingNumber>
+      <Name>Avira</Name>
+      <Version>1.1.35.25717</Version>
+      <Vendor>Avira Operations GmbH &amp; Co. KG</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{4D42353B-533F-4306-AD0B-7FEF292ADE04}</IdentifyingNumber>
+      <Name>Nero CoverDesigner Help</Name>
+      <Version>4.0.0.0</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{731C183B-86A0-3442-BE55-68A7C92581E9}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2012 Extended Libraries</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{F845936B-E004-4F9C-A1DA-CDB99FF440F0}</IdentifyingNumber>
+      <Name>Microsoft SQL Server 2012 Native Client</Name>
+      <Version>11.0.2100.60</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A9BDCA6B-3653-467B-AC83-94367DA3BFE3}</IdentifyingNumber>
+      <Name>Windows Live Photo Common</Name>
+      <Version>15.4.3502.0922</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{4327107B-E95E-415C-9194-458FCED6BF12}</IdentifyingNumber>
+      <Name>Software Intel(R) PROSet/Wireless WiFi</Name>
+      <Version>13.03.0000</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>C:\Program Files\Intel\</InstallLocation>
+      <URLInfoAbout>http://www.intel.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C779648B-410E-4BBA-B75B-5815BCEFE71D}</IdentifyingNumber>
+      <Name>Safari</Name>
+      <Version>5.34.57.2</Version>
+      <Vendor>Apple Inc.</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Safari\</InstallLocation>
+      <URLInfoAbout>http://www.apple.com/es/</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A8F2089B-1F79-4BF6-B385-A2C2B0B9A74D}</IdentifyingNumber>
+      <Name>ImagXpress</Name>
+      <Version>7.0.74.0</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{FEB375AB-6EEC-3929-8FAF-188ED81DD8B5}</IdentifyingNumber>
+      <Name>Microsoft Help Viewer 2.0</Name>
+      <Version>2.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{8A7168AB-22DB-44AE-976A-406093F5028A}</IdentifyingNumber>
+      <Name>Hofmann 9.6</Name>
+      <Version>9.6</Version>
+      <Vendor>Hofmann</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Hofmann\Hofmann\</InstallLocation>
+      <URLInfoAbout>http://www.hofmann.es</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{027E5FAB-1476-4C59-AAB4-32EF28520399}</IdentifyingNumber>
+      <Name>Windows Live Language Selector</Name>
+      <Version>15.4.3555.0308</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{62022DCB-BA92-4EC2-AE03-9B946E4DBF12}</IdentifyingNumber>
+      <Name>hpbDSService</Name>
+      <Version>002.002.07399</Version>
+      <Vendor>Hewlett-Packard</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://www.hp.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{FEF39EFB-D36C-4799-89AE-7602B9AE03CF}</IdentifyingNumber>
+      <Name>Preparación de Microsoft Visual Studio 2012</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{1ACC8FFB-9D84-4C05-A4DE-D28A9BC91698}</IdentifyingNumber>
+      <Name>Windows Live ID Sign-in Assistant</Name>
+      <Version>7.250.4232.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{B175520C-86A2-35A7-8619-86DC379688B9}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030</Name>
+      <Version>11.0.61030</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{710f4c1c-cc18-4c49-8cbf-51240c89a1a2}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2005 Redistributable</Name>
+      <Version>8.0.61001</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{CF2BEA3C-26EA-32F8-AA9B-331F7E34BA97}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030</Name>
+      <Version>11.0.61030</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A73BEC3C-40A0-480E-87EF-EFCD33629088}</IdentifyingNumber>
+      <Name>NeroExpress</Name>
+      <Version>9.0.9.100</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{CCE4F26C-89D8-3977-985F-AFA69761B698}</IdentifyingNumber>
+      <Name>Paquete de idioma del modelo de objetos de Microsoft Visual Studio Team Foundation Server 2012 - ESN</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{3611CA6C-5FCA-4900-A329-6A118123CCFC}</IdentifyingNumber>
+      <Name>Bing Bar</Name>
+      <Version>7.1.355.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{61862D7C-CDBC-48D5-8AE1-3B8BD1E23BC5}</IdentifyingNumber>
+      <Name>Visual Studio 2012 Prerequisites</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{0C779D9C-FD0F-4A53-86BE-3D53E58B2900}</IdentifyingNumber>
+      <Name>HPLJUTCore</Name>
+      <Version>004.005.0001</Version>
+      <Vendor>HP</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://www.HP.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{36E619BC-A234-4EC3-849B-779A7C865A45}</IdentifyingNumber>
+      <Name>Microsoft SQL Server 2012 Data-Tier App Framework</Name>
+      <Version>11.0.2316.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{00EC8ABC-3C5A-40F8-A8CB-E7DCD5ABFA05}</IdentifyingNumber>
+      <Name>Microsoft NuGet - Visual Studio 2012</Name>
+      <Version>2.0.30625.9003</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{1F1C2DFC-2D24-3E06-BCB8-725134ADF989}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148</Name>
+      <Version>9.0.30729.4148</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{D7126FFC-90BA-4120-8FFB-3688C9931A09}</IdentifyingNumber>
+      <Name>Microsoft SQL Server Compact 4.0 SP1 x64 ESN</Name>
+      <Version>4.0.8876.1</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>C:\Program Files\Microsoft SQL Server Compact Edition\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{BDBBC90D-79EE-4E48-ACED-BF03F87F9412}</IdentifyingNumber>
+      <Name>PreEmptive Analytics Client Spanish Language Pack</Name>
+      <Version>1.0.2180.1</Version>
+      <Vendor>PreEmptive Solutions</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://www.preemptive.com/products/runtime-intelligence/overview</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{E95D9D0D-7C7F-48DC-B8FD-A52B862FAFA8}</IdentifyingNumber>
+      <Name>ODAC Documentation for Visual Studio</Name>
+      <Version>12.1.012</Version>
+      <Vendor>Oracle Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{9A25302D-30C0-39D9-BD6F-21E6EC160475}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17</Name>
+      <Version>9.0.30729</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{27EF252D-800C-ED42-9904-459FE0046225}</IdentifyingNumber>
+      <Name>Windows Software Development Kit for Windows Store Apps DirectX x64 Remote</Name>
+      <Version>8.59.25584</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{89F4137D-6C26-4A84-BDB8-2E5A4BB71E00}</IdentifyingNumber>
+      <Name>Microsoft Silverlight</Name>
+      <Version>5.1.10411.0</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Silverlight\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{838E187D-8B7A-473D-B93C-C8E970B15D2B}</IdentifyingNumber>
+      <Name>psqlODBC</Name>
+      <Version>08.04.0200</Version>
+      <Vendor>PostgreSQL Global Development Group</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{B2C12C8D-65DC-40BD-B309-5ADB0C6C8D8F}</IdentifyingNumber>
+      <Name>Nero WaveEditor</Name>
+      <Version>5.0.18.0</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{6EB540BD-BA76-44E9-928A-AB7508F448B8}</IdentifyingNumber>
+      <Name>Microsoft SQL Server 2012 Transact-SQL ScriptDom</Name>
+      <Version>11.0.2100.60</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{148878BD-A2A5-4CF1-A103-2BA632F41953}</IdentifyingNumber>
+      <Name>WCF Data Services Tools for Microsoft Visual Studio 2012</Name>
+      <Version>5.0.50710.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{E268ADBD-A002-4684-AEDF-EA0F83F7E00B}</IdentifyingNumber>
+      <Name>WOL Magic Packet Sender</Name>
+      <Version>1.5.0</Version>
+      <Vendor>Zwalisoft</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://magicpacket.free.fr</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{BD95A8CD-1D9F-35AD-981A-3E7925026EBB}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030</Name>
+      <Version>11.0.61030</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{86493ADD-824D-4B8E-BD72-8C5DCDC52A71}</IdentifyingNumber>
+      <Name>MSXML 4.0 SP2 (KB954430)</Name>
+      <Version>4.20.9870.0</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{DEC235ED-58A4-4517-A278-C41E8DAEAB3B}</IdentifyingNumber>
+      <Name>PowerDVD</Name>
+      <Version>10.00.0000</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Cyberlink\PowerDVD10\</InstallLocation>
+      <URLInfoAbout>http://www.CyberLink.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{FBA6F90E-36EC-4FC9-9B25-3834E3BD46A8}</IdentifyingNumber>
+      <Name>Microsoft SQL Server 2012 Data-Tier App Framework</Name>
+      <Version>11.0.2316.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{8F21291E-0444-4B1D-B9F9-4370A73E346D}</IdentifyingNumber>
+      <Name>WinFlash</Name>
+      <Version>2.31.1</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://www.asus.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{89B4532E-19CE-4FA9-9692-10BFD5A38532}</IdentifyingNumber>
+      <Name>Visual Studio Extensions for Windows Library for JavaScript</Name>
+      <Version>1.0.8514.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{AB5C933E-5C7D-4D30-B314-9C83A49B94BE}</IdentifyingNumber>
+      <Name>ATK Package</Name>
+      <Version>1.0.0008</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://www.asus.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{800F484E-9D69-492D-B656-7BAA32586142}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio 2012 Shell (Minimum)</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{0E22C06E-DCC1-48D6-9A47-3671F673B8C1}</IdentifyingNumber>
+      <Name>Servicio de lenguaje T-SQL de Microsoft SQL Server 2012</Name>
+      <Version>11.0.2100.60</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A41A708E-3BE6-4561-855D-44027C1CF0F8}</IdentifyingNumber>
+      <Name>Windows Live Photo Common</Name>
+      <Version>15.4.3502.0922</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{CE95A79E-E4FC-4FFF-8A75-29F04B942FF2}</IdentifyingNumber>
+      <Name>Windows Live UX Platform</Name>
+      <Version>15.4.3502.0922</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{948FFAAE-C57F-447B-9B07-3721E950BFDC}</IdentifyingNumber>
+      <Name>Nero ShowTime</Name>
+      <Version>4.99.0.0</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{46A99EAE-98DA-4BE5-94C3-D41BA4C266DA}</IdentifyingNumber>
+      <Name>hpStatusAlerts</Name>
+      <Version>050.037.00142</Version>
+      <Vendor>Hewlett Packard</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{56C049BE-79E9-4502-BEA7-9754A3E60F9B}</IdentifyingNumber>
+      <Name>neroxml</Name>
+      <Version>1.0.0</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{09BCB9CE-964B-4BDA-AE46-B5A0ABEF1D3F}</IdentifyingNumber>
+      <Name>SonicMaster</Name>
+      <Version>1.00.0000</Version>
+      <Vendor>Virage Logic, Corp.</Vendor>
+      <InstallLocation>C:\Program Files (x86)\ASUS\SonicMaster\</InstallLocation>
+      <URLInfoAbout>http://www.VirageLogic,Corp..com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{5D4A51DE-0236-BCED-3C77-F8B2289EA534}</IdentifyingNumber>
+      <Name>Windows Runtime Intellisense Content - es-es</Name>
+      <Version>8.59.25584</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{0490B3DE-AE17-4B17-957C-CA4800786E57}</IdentifyingNumber>
+      <Name>Paquete de idioma de Dotfuscator and Analytics Community Edition</Name>
+      <Version>5.5.4521.29298</Version>
+      <Vendor>PreEmptive Solutions</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{9F2945EE-C42D-4946-B857-11F697E34D67}</IdentifyingNumber>
+      <Name>Herramientas de recopilación de Microsoft Visual Studio 2012 - ESN</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{D6E5E5FE-83CF-3CFC-AF7A-11F05613705B}</IdentifyingNumber>
+      <Name>Microsoft .NET Framework 4.5.1 (ESN)</Name>
+      <Version>4.5.50938</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://go.microsoft.com/fwlink/?LinkId=286133</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{8220EEFE-38CD-377E-8595-13398D740ACE}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17</Name>
+      <Version>9.0.30729</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{5C2E8A0F-80E2-4C68-8CC0-D8D16E7196BF}</IdentifyingNumber>
+      <Name>Nero RescueAgent Help</Name>
+      <Version>1.99.0.1</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{EC8BD21F-0CA0-4BBF-97D9-4A52B30041A1}</IdentifyingNumber>
+      <Name>ASUS Virtual Camera</Name>
+      <Version>1.0.21</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{0B0F231F-CE6A-483D-AA23-77B364F75917}</IdentifyingNumber>
+      <Name>Windows Live Installer</Name>
+      <Version>15.4.3502.0922</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{8FF3891F-01B5-4A71-BFCD-20761890471C}</IdentifyingNumber>
+      <Name>Windows Live Messenger</Name>
+      <Version>15.4.3538.0513</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{8E80802F-5404-3DF1-8FB2-D05ADB02898B}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2012  x64 Designtime - 11.0.50727</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{B823632F-3B72-4514-8861-B961CE263224}</IdentifyingNumber>
+      <Name>PostgreSQL 8.3</Name>
+      <Version>8.3</Version>
+      <Vendor>PostgreSQL Global Development Group</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{B96FCD4F-6EDD-4258-8A6D-0FCEA8445E3E}</IdentifyingNumber>
+      <Name>Microsoft Web Developer Tools - Visual Studio 2012</Name>
+      <Version>1.0.30710.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{682B3E4F-696A-42DE-A41C-4C07EA1678B4}</IdentifyingNumber>
+      <Name>Windows Live SOXE</Name>
+      <Version>15.4.3502.0922</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{4A03706F-666A-4037-7777-5F2748764D10}</IdentifyingNumber>
+      <Name>Java Auto Updater</Name>
+      <Version>2.0.2.1</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{0BCC836F-0B28-4090-B58A-64883BAA3B2F}</IdentifyingNumber>
+      <Name>WCF Data Services 5.0 (for OData v3) Primary Components</Name>
+      <Version>5.0.50628.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{7D1C7B9F-2744-4388-B128-5C75B8BCCC84}</IdentifyingNumber>
+      <Name>Windows Live Essentials</Name>
+      <Version>15.4.3502.0922</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{9B6239BF-4E85-4590-8D72-51E30DB1A9AA}</IdentifyingNumber>
+      <Name>ASUS Power4Gear Hybrid</Name>
+      <Version>1.1.44</Version>
+      <Vendor>N/A</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{1E8D35CF-17C5-41D7-ADF8-F9979AB271B1}</IdentifyingNumber>
+      <Name>Microsoft SQL Server Data Tools - ESN (11.1.20627.00)</Name>
+      <Version>11.1.20627.00</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{EFCB35DF-0CD7-4A8C-9C62-A0F909AD2498}</IdentifyingNumber>
+      <Name>Utilidades línea de comandos de Microsoft SQL Server 2012</Name>
+      <Version>11.0.2100.60</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{D11F66FF-82B3-DDB8-1146-525370552BE1}</IdentifyingNumber>
+      <Name>Windows Software Development Kit for Windows Store Apps</Name>
+      <Version>8.59.25584</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+  </sw>
+</components>

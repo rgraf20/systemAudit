@@ -1,0 +1,2684 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<components>
+  <system>
+    <mac>8C:89:A5:0C:7E:63</mac>
+    <status>OFFLINE</status>
+  </system>
+  <motherboard>
+    <SerialNumber>BSS-0123456789</SerialNumber>
+    <Manufacturer>Micro-Star International Co., Ltd.</Manufacturer>
+    <Model>N/A</Model>
+  </motherboard>
+  <bios>
+    <SerialNumber>FFFFFFFF</SerialNumber>
+    <Manufacturer>American Megatrends Inc.</Manufacturer>
+    <Name>E1763IMS.507</Name>
+  </bios>
+  <memory>
+    <SerialNumber>69134403</SerialNumber>
+    <Description>Memoria física</Description>
+    <Capacity>8589934592</Capacity>
+  </memory>
+  <video>
+    <DeviceID>VideoController1</DeviceID>
+    <AdapterCompatibility>NVIDIA</AdapterCompatibility>
+    <Description>NVIDIA GeForce GTX 770M</Description>
+    <AdapterRAM>3221225472</AdapterRAM>
+  </video>
+  <processor>
+    <ProcessorId>BFEBFBFF000306C3</ProcessorId>
+    <Manufacturer>GenuineIntel</Manufacturer>
+    <Name>Intel(R) Core(TM) i7-4700MQ CPU @ 2.40GHz</Name>
+    <Description>Intel64 Family 6 Model 60 Stepping 3</Description>
+    <MaxClockSpeed>2401</MaxClockSpeed>
+    <NumberOfCores>4</NumberOfCores>
+    <NumberOfLogicalProcessors>8</NumberOfLogicalProcessors>
+  </processor>
+  <network>
+    <DeviceID>N/A</DeviceID>
+    <Manufacturer>Killer</Manufacturer>
+    <Description>Killer e2200 Gigabit Ethernet Controller (NDIS 6.30)</Description>
+    <ip>192.168.56.1</ip>
+    <mask>255.255.255.0</mask>
+    <DefaultIPGateway>172.17.1.1</DefaultIPGateway>
+    <broadcasting>192.168.56.255</broadcasting>
+    <dns>172.17.1.5, 172.17.1.16</dns>
+  </network>
+  <disk>
+    <SerialNumber>638S1071T8FY</SerialNumber>
+    <DeviceID>C:</DeviceID>
+    <Manufacturer>(Unidades de disco estándar)</Manufacturer>
+    <Model>TOSHIBA THNSNF128GMCS</Model>
+    <FileSystem>NTFS</FileSystem>
+    <Size>126117474304</Size>
+    <FreeSpace>61573029888</FreeSpace>
+  </disk>
+  <windows>
+    <SerialNumber>00179-60742-81894-AAOEM</SerialNumber>
+    <Caption>Microsoft Windows 8.1</Caption>
+    <Version>6.3.9600</Version>
+    <hostname>SkyCrafter</hostname>
+    <workgroup>WORKGROUP</workgroup>
+    <RegisteredUser>David</RegisteredUser>
+    <RegisteredPassword>N/A</RegisteredPassword>
+    <CountryCode>34</CountryCode>
+  </windows>
+  <sw>
+    <program>
+      <IdentifyingNumber>{08208143-777D-4A06-BB54-71BF0AD1BB70}</IdentifyingNumber>
+      <Name>IPTInstaller</Name>
+      <Version>4.0.8</Version>
+      <Vendor>HTC</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{E3E71D07-CD27-46CB-8448-16D4FB29AA13}</IdentifyingNumber>
+      <Name>Microsoft WSE 3.0 Runtime</Name>
+      <Version>3.0.5305.0</Version>
+      <Vendor>Microsoft Corp.</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft WSE\v3.0\</InstallLocation>
+      <URLInfoAbout>http://go.microsoft.com/fwlink/?linkid=10708&amp;clcid=0x409</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{95120000-00B9-0409-1000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Application Error Reporting</Name>
+      <Version>12.0.6015.5000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://support.microsoft.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90140000-2005-0000-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office File Validation Add-In</Name>
+      <Version>14.0.5130.5003</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C1BE4600-7D15-3D1E-8AA2-B3241DB1D063}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio Ultimate 2012 XAML UI Designer Core</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C8BBA220-8549-462A-B411-1AF44DE098B5}</IdentifyingNumber>
+      <Name>Photo Common</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{99AA6730-54CD-4B9E-B05B-0A5196743923}</IdentifyingNumber>
+      <Name>Windows Live UX Platform Language Pack</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{4ED22240-0F24-C32A-188C-A481B2781B25}</IdentifyingNumber>
+      <Name>LocalESPCui for es-es</Name>
+      <Version>8.59.25584</Version>
+      <Vendor>Microsoft</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{59D87F40-6C4B-4F80-A42B-FAA0E6EAFAB6}</IdentifyingNumber>
+      <Name>Microsoft ASP.NET MVC 4 - Visual Studio 2012 Tools</Name>
+      <Version>4.0.20710.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{CD239A50-AD95-4A72-9D5F-D4FBD4B89417}</IdentifyingNumber>
+      <Name>Movie Maker</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{B345BD50-6492-3458-8DFA-E5A358DD01AB}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2012 Microsoft Foundation Class Libraries</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A37F2060-813A-4325-9456-272B10EE75EF}</IdentifyingNumber>
+      <Name>Windows Live Essentials</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{0DF95460-2887-4011-9344-1959CDF18ADC}</IdentifyingNumber>
+      <Name>Photo Common</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{9C60D080-84E7-43A5-8ECA-28253D253BD7}</IdentifyingNumber>
+      <Name>Windows Live Essentials</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{2B997E80-3BEC-3222-9114-98DBE1182B2E}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2012 x64 Debug Runtime - 11.0.50727</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{24991BA0-F0EE-44AD-9CC8-5EC50AECF6B7}</IdentifyingNumber>
+      <Name>Skype™ 7.3</Name>
+      <Version>7.3.101</Version>
+      <Vendor>Skype Technologies S.A.</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Skype\</InstallLocation>
+      <URLInfoAbout>http://www.skype.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C9B6EFD0-4F01-4BBA-8374-39AD99A3ED72}</IdentifyingNumber>
+      <Name>Windows Live Photo Common</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{537B16E0-A39F-47CB-9C1E-50978862B108}</IdentifyingNumber>
+      <Name>Windows Live UX Platform Language Pack</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{9EDF46F0-2D4E-4C00-B2B6-0660666E9F60}</IdentifyingNumber>
+      <Name>Movie Maker</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{4B6C7001-C7D6-3710-913E-5BC23FCE91E6}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148</Name>
+      <Version>9.0.30729.4148</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A46A6021-355D-4909-8A03-C35D332A6578}</IdentifyingNumber>
+      <Name>Microsoft System CLR Types para SQL Server 2012 (x64)</Name>
+      <Version>11.0.2100.60</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{715F9B21-2817-402A-9BF0-BDA764D21F09}</IdentifyingNumber>
+      <Name>Windows Live Essentials</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{44B72151-611E-429D-9765-9BA093D7E48A}</IdentifyingNumber>
+      <Name>Intel® Trusted Connect Service Client</Name>
+      <Version>1.27.798.1</Version>
+      <Vendor>Intel Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{350AA351-21FA-3270-8B7A-835434E766AD}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2008 Redistributable - x64 9.0.21022</Name>
+      <Version>9.0.21022</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{42335F51-334C-4805-9FFC-3A33F40A245D}</IdentifyingNumber>
+      <Name>Requisitos previos para SSDT</Name>
+      <Version>11.0.2100.60</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{36BEC461-B58A-414D-993E-E2BDD1F1A14B}</IdentifyingNumber>
+      <Name>Movie Maker</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{D9D4D271-609F-440D-A9EC-A66B0815CFE2}</IdentifyingNumber>
+      <Name>Windows Live Essentials</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{DAA3E771-CB41-40A4-8AAF-258BA650B0AA}</IdentifyingNumber>
+      <Name>Microsoft .NET Framework 4.5 SDK - Paquete de idioma ESN</Name>
+      <Version>4.5.50709</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{5B1D7E71-C06B-4398-9C8A-BB79EB042B05}</IdentifyingNumber>
+      <Name>AVG PC TuneUp 2015 (es-ES)</Name>
+      <Version>15.0.1001.403</Version>
+      <Vendor>AVG Technologies</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{18272881-CFC0-434D-A975-E5BE44206AA0}</IdentifyingNumber>
+      <Name>Windows Live UX Platform Language Pack</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{02213A81-CB13-7262-5ABE-1FFA2C75559F}</IdentifyingNumber>
+      <Name>Windows App Certification Kit x64</Name>
+      <Version>8.59.25584</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{1D8E6291-B0D5-35EC-8441-6616F567A0F7}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219</Name>
+      <Version>10.0.40219</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{69D48C91-CCC2-4305-89DE-D1F8122EDBF4}</IdentifyingNumber>
+      <Name>Photo Common</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{719E4DA1-A17B-4B46-9D5D-925D4FBE4D69}</IdentifyingNumber>
+      <Name>Movie Maker</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{ad8a2fa1-06e7-4b0d-927d-6e54b3d31028}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2005 Redistributable (x64)</Name>
+      <Version>8.0.61000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A84A4FB1-D703-48DB-89E0-68B6499D2801}</IdentifyingNumber>
+      <Name>Qualcomm Atheros Bluetooth Suite (64)</Name>
+      <Version>8.0.0.222</Version>
+      <Vendor>Qualcomm Atheros Communications</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Bluetooth Suite\</InstallLocation>
+      <URLInfoAbout>http://www.qca.qualcomm.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{3CBD94C1-BA15-488C-888B-D8DD296CC6DC}</IdentifyingNumber>
+      <Name>Fotogalerie</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{9C70E6C1-FE93-3CA4-AFE8-CD3C016C2892}</IdentifyingNumber>
+      <Name>Visual Studio 2012 Prerequisites - ESN Language Pack</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{34125BC1-5C0C-340A-BC4E-1264575D2441}</IdentifyingNumber>
+      <Name>Microsoft Portable Library Multi-Targeting Pack Language Pack - esn</Name>
+      <Version>11.0.50709.17929</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{F0B430D1-B6AA-473D-9B06-AA3DD01FD0B8}</IdentifyingNumber>
+      <Name>Microsoft SQL Server 2005 Compact Edition [ENU]</Name>
+      <Version>3.1.0000</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft SQL Server Compact Edition\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219</Name>
+      <Version>10.0.40219</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C32D87E1-6310-4CD5-8D6D-865AFE0E9B4E}</IdentifyingNumber>
+      <Name>Movie Maker</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{196467F1-C11F-4F76-858B-5812ADC83B94}</IdentifyingNumber>
+      <Name>MSXML 4.0 SP3 Parser</Name>
+      <Version>4.30.2100.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\WINDOWS\SysWOW64\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A222A7F1-F92C-3A4F-BB14-D5F930A95C15}</IdentifyingNumber>
+      <Name>Paquete de idioma de Microsoft Visual Studio 2012 SharePoint Developer Tools - ESN</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{7E63F102-A9E9-4F4C-8004-BC62974736BF}</IdentifyingNumber>
+      <Name>Movie Maker</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{13A4EE12-23EA-3371-91EE-EFB36DDFFF3E}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{F8CFEB22-A2E7-3971-9EDA-4B11EDEFC185}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C67BC332-A59A-4D40-977F-664F60AB21D8}</IdentifyingNumber>
+      <Name>Photo Common</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{262E7632-72F9-4CBE-9461-937F24106EF2}</IdentifyingNumber>
+      <Name>Windows Live Essentials</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{6095B652-D4DC-3EC8-9A46-B9137581D58C}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio 2010 Office Developer Tools (x64) Language Pack - ESN</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{247E8762-752C-4F2C-9CE2-A2BE787A1C19}</IdentifyingNumber>
+      <Name>Microsoft System CLR Types para SQL Server 2012</Name>
+      <Version>11.0.2100.60</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A1655E62-715A-4FE6-AA95-77F1A3476DC9}</IdentifyingNumber>
+      <Name>Microsoft ASP.NET Web Pages 2 - Visual Studio 2012 Tools - ESN</Name>
+      <Version>2.0.20710.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A996C182-3724-4DF1-A4BC-66154FE57DFE}</IdentifyingNumber>
+      <Name>AVG PC TuneUp 2015</Name>
+      <Version>15.0.1001.403</Version>
+      <Vendor>AVG Technologies</Vendor>
+      <InstallLocation>C:\Program Files (x86)\AVG\AVG PC TuneUp\</InstallLocation>
+      <URLInfoAbout>http://www.avg.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{2329E182-DFC8-4C1E-AF2C-758F25347F69}</IdentifyingNumber>
+      <Name>„Windows Live Essentials“</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{DF5FCA82-ABFC-4DA4-A456-6AD0083746BD}</IdentifyingNumber>
+      <Name>Microsoft SQL Server Data Tools Build Utilities - ESN (11.1.20627.00)</Name>
+      <Version>11.1.20627.00</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{6F07A6C2-9068-3673-A120-DC10012468C6}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio Team Foundation Server 2012 Object Model</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{46A648D2-C097-41A3-A517-E709F045B6CD}</IdentifyingNumber>
+      <Name>Movie Maker</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{0A5B39D2-7ED6-4779-BCC9-37F381139DB3}</IdentifyingNumber>
+      <Name>Adobe AIR</Name>
+      <Version>3.8.0.870</Version>
+      <Vendor>Adobe Systems Incorporated</Vendor>
+      <InstallLocation>c:\Program Files (x86)\Common Files\Adobe AIR\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{7595CAD2-87D0-4D01-AC02-3FDD3A891BB8}</IdentifyingNumber>
+      <Name>Galeria fotografii</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{6B8F13E2-F02B-445C-9A31-3C0E5D547CBA}</IdentifyingNumber>
+      <Name>Photo Common</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{1F8E06E2-BA93-40DC-B183-E024CBD853A8}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2012 Compilers</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{9D204CE2-C8D8-4CC9-A74B-F2768DBC1E3B}</IdentifyingNumber>
+      <Name>Photo Common</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{49F068F2-4323-417B-AFC8-1E43F479D46C}</IdentifyingNumber>
+      <Name>Windows Live Essentials</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{5A30E103-9FA6-4A23-A107-E1F5F174BB62}</IdentifyingNumber>
+      <Name>Windows Live Temel Parçalar</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{D32EF103-4016-4C15-BCB0-700C0A7A2309}</IdentifyingNumber>
+      <Name>Microsoft ASP.NET MVC 3</Name>
+      <Version>3.0.50813.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C9D08433-5FDD-43C6-8482-7AFA7D891D98}</IdentifyingNumber>
+      <Name>Windows Live UX Platform Language Pack</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{1C163D33-33B3-33EB-A617-0D4D852BE8E1}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2012 x86 Debug Runtime - 11.0.50727</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{5FB4C443-6BD6-1514-2717-3827D65AE6FB}</IdentifyingNumber>
+      <Name>Windows Software Development Kit DirectX x64 Remote</Name>
+      <Version>8.59.25584</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{04D5FF83-C0AC-48AB-A685-287BEC407007}</IdentifyingNumber>
+      <Name>Recursos (mínimos) de Microsoft Visual Studio 2012 Shell</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{690F5BA3-5DEB-42CD-962B-F687EE59FAA7}</IdentifyingNumber>
+      <Name>Windows Live Essentials</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A1FBD2B3-6768-472D-BA46-C00EACBCE16C}</IdentifyingNumber>
+      <Name>Fotogalerie</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{7E9A63B3-8572-4A4B-9F87-3C2A873BBC55}</IdentifyingNumber>
+      <Name>Windows Live UX Platform Language Pack</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{B693A4C3-B708-4F25-978E-56CA2517914C}</IdentifyingNumber>
+      <Name>Windows Live UX Platform Language Pack</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{5078CEC3-A56F-4080-8CD4-ED7BCBE5686B}</IdentifyingNumber>
+      <Name>Photo Common</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{73E68BD3-5ABA-4529-A2C8-4ECED6952092}</IdentifyingNumber>
+      <Name>Microsoft SQL Server System CLR Types</Name>
+      <Version>10.50.1600.1</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{837b34e3-7c30-493c-8f6a-2b0f04e2912c}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2005 Redistributable</Name>
+      <Version>8.0.59193</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{6DAB46E3-D017-3E2B-85D8-F57A230384C0}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio Team Foundation Server 2012 Team Explorer</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{F54030F3-14B6-432D-9361-78DCB1473920}</IdentifyingNumber>
+      <Name>Photo Common</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{5CBFF3F3-2D40-34EE-BCA5-A95BC19E400D}</IdentifyingNumber>
+      <Name>Microsoft .NET Framework 4.5 Multi-Targeting Pack</Name>
+      <Version>4.5.50709</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{061FF8F3-5226-4278-8AAB-282C1B024F58}</IdentifyingNumber>
+      <Name>Photo Common</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{8CD5ABF3-C30B-4A94-811F-0A2C5510B72C}</IdentifyingNumber>
+      <Name>Microsoft Silverlight 5 SDK - ESN</Name>
+      <Version>5.0.61118.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{57F20F04-014D-453F-B6A3-AE9485C4DFAB}</IdentifyingNumber>
+      <Name>Blend for Visual Studio 2012</Name>
+      <Version>5.0.30709.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Visual Studio 11.0\Blend\</InstallLocation>
+      <URLInfoAbout>http://go.microsoft.com/fwlink/?LinkID=75064</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{D888F114-7537-4D48-AF03-5DA9C82D7540}</IdentifyingNumber>
+      <Name>Photo Common</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{CB5CC924-4B5C-4682-BB21-F160C12F56AB}</IdentifyingNumber>
+      <Name>Foto-galerija</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C4D82144-B2D5-4A0E-A470-16F13EBC5BCB}</IdentifyingNumber>
+      <Name>Windows Live Essentials</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{3C63F944-803E-49A7-B3A2-B8AB3313E883}</IdentifyingNumber>
+      <Name>Windows Live UX Platform Language Pack</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{743FD554-A73F-4FE8-BE7B-C283D16297F9}</IdentifyingNumber>
+      <Name>Photo Common</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{34C5AD54-3CCD-4935-AB8D-8527058B96F7}</IdentifyingNumber>
+      <Name>Windows Live UX Platform Language Pack</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{2B068A64-F867-44E9-8827-A795647C8730}</IdentifyingNumber>
+      <Name>Фотографии (общедоступная версия)</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{CEFF6074-EC9D-42AF-AAD3-12F2D4123C6E}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2012 Compilers - ESN Resources</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{30F99474-EBE3-4134-A02B-F6CD38CFE243}</IdentifyingNumber>
+      <Name>Photo Gallery</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{78B46A74-9844-4C2E-8BBE-DFA72DCB5C3B}</IdentifyingNumber>
+      <Name>WCF Data Services Tools for Visual Studio 11 ESN Language Pack</Name>
+      <Version>5.0.50710.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{52F63384-0FE8-41F5-B9C1-3331BE2E74F1}</IdentifyingNumber>
+      <Name>OpenOffice 4.0.1</Name>
+      <Version>4.01.9714</Version>
+      <Vendor>Apache Software Foundation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\OpenOffice 4\</InstallLocation>
+      <URLInfoAbout>http://www.openoffice.org</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{97368584-CA0D-45C6-8151-AE96A33A867B}</IdentifyingNumber>
+      <Name>Fotoattēlu galerija</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{32AA7594-09A9-437F-9541-5F760509B752}</IdentifyingNumber>
+      <Name>Фотогалерия</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{5917D694-AFC3-46BF-8CAB-0DABAF9D6FCB}</IdentifyingNumber>
+      <Name>Windows Live UX Platform Language Pack</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C4CAD994-6EA2-3121-8352-DA593150B322}</IdentifyingNumber>
+      <Name>Microsoft Portable Library Multi-Targeting Pack</Name>
+      <Version>11.0.50709.17929</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{144113A4-1A98-452F-8506-60F8C811D316}</IdentifyingNumber>
+      <Name>Movie Maker</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{5EB368A4-562A-41B6-A5B3-06054A27F5A6}</IdentifyingNumber>
+      <Name>Intel(R) Rapid Storage Technology</Name>
+      <Version>12.5.0.1066</Version>
+      <Vendor>Intel Corporation</Vendor>
+      <InstallLocation>C:\Program Files\Intel\Intel(R) Rapid Storage Technology\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{0E1BB4B4-00FF-45B1-914B-AB8D8B9862B3}</IdentifyingNumber>
+      <Name>Windows Live UX Platform Language Pack</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{115356B4-8E81-43DB-BB2A-19E5ED95FBAF}</IdentifyingNumber>
+      <Name>Фотоколекція</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{9495AEB4-AB97-39DE-8C42-806EEF75ECA7}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio 2010 Tools for Office Runtime (x64)</Name>
+      <Version>10.0.50908</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{B9F7B0C4-3AE0-41AF-B60F-ADACEAE856E3}</IdentifyingNumber>
+      <Name>TuneUp Utilities 2014 (es-ES)</Name>
+      <Version>14.0.1000.275</Version>
+      <Vendor>TuneUp Software</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A47EA9D4-BB87-415E-9239-28860434E5A0}</IdentifyingNumber>
+      <Name>Movie Maker</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{B096A0E4-26A1-4E9F-8548-577964B9434B}</IdentifyingNumber>
+      <Name>Windows Live Essentials</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{26A24AE4-039D-4CA4-87B4-2F03217067FF}</IdentifyingNumber>
+      <Name>Java 7 Update 67</Name>
+      <Version>7.0.670</Version>
+      <Vendor>Oracle</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Java\jre7\</InstallLocation>
+      <URLInfoAbout>http://java.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{26A24AE4-039D-4CA4-87B4-2F83218025F0}</IdentifyingNumber>
+      <Name>Java 8 Update 25</Name>
+      <Version>8.0.250</Version>
+      <Vendor>Oracle Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://java.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{26A24AE4-039D-4CA4-87B4-2F86418025F0}</IdentifyingNumber>
+      <Name>Java 8 Update 25 (64-bit)</Name>
+      <Version>8.0.250</Version>
+      <Vendor>Oracle Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://java.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{4CCBD1F4-CEEC-452A-9CB8-46564B501315}</IdentifyingNumber>
+      <Name>Windows Live UX Platform</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{64A3A4F4-B792-11D6-A78A-00B0D0180110}</IdentifyingNumber>
+      <Name>Java SE Development Kit 8 Update 11 (64-bit)</Name>
+      <Version>8.0.110</Version>
+      <Vendor>Oracle Corporation</Vendor>
+      <InstallLocation>C:\Program Files\Java\jdk1.8.0_11\</InstallLocation>
+      <URLInfoAbout>http://java.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{6A8DB215-7BCD-4377-B015-2E4541A3E7C6}</IdentifyingNumber>
+      <Name>Windows Live PIMT Platform</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A19A8C25-272A-4CD6-8BA8-3772321A021B}</IdentifyingNumber>
+      <Name>Συλλογή φωτογραφιών</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{034BEE25-A986-455F-BA79-48CF3A47B221}</IdentifyingNumber>
+      <Name>Windows Live UX Platform Language Pack</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{6F066545-40A2-4C38-A8F7-78581CC5C442}</IdentifyingNumber>
+      <Name>Microsoft ASP.NET Web Pages - Visual Studio 2012 Tools</Name>
+      <Version>1.0.20710.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{79B56745-1296-490E-86A7-AE07A034AB26}</IdentifyingNumber>
+      <Name>Microsoft ASP.NET MVC 3 - ESN</Name>
+      <Version>3.0.20105.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{857BC375-BCFB-474E-9BD9-7EBB18EC55E0}</IdentifyingNumber>
+      <Name>Windows Live Essentials</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{EC33D375-5164-4374-9061-43F5C6073219}</IdentifyingNumber>
+      <Name>Photo Common</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{4DEA5B85-6C56-45F3-AE00-FED756B0D3B4}</IdentifyingNumber>
+      <Name>KLM</Name>
+      <Version>1.0.1304.2201</Version>
+      <Vendor>Micro-Star International Co., Ltd.</Vendor>
+      <InstallLocation>C:\Program Files (x86)\MSI\KLM\</InstallLocation>
+      <URLInfoAbout>http://www.msi.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{E354D495-5DA4-4CCF-AB39-080F6A4141BE}</IdentifyingNumber>
+      <Name>Fotogalleri</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{43740E95-0606-42CE-AEA7-E28AA1A6E4BF}</IdentifyingNumber>
+      <Name>Tools for .Net 3.5 - ESN Lang Pack</Name>
+      <Version>3.11.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{CE7773A5-8556-44A3-84AB-B95F67E8D766}</IdentifyingNumber>
+      <Name>Photo Common</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{13F3CEA5-9E2C-4C4E-9F0F-D0DB389CF4A9}</IdentifyingNumber>
+      <Name>Movie Maker</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{FC068FA5-1A3B-4926-9738-1239D7E756AC}</IdentifyingNumber>
+      <Name>Herramientas de recopilación de rendimiento de Microsoft Visual Studio 2012</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{E3A180B5-6020-4EA4-AD9D-742B53D1D2EC}</IdentifyingNumber>
+      <Name>Microsoft SQL Server 2012 Management Objects (x64)</Name>
+      <Version>11.0.2100.60</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{AE8044B5-FCA3-4EBE-AC78-0FB3A6E8DC76}</IdentifyingNumber>
+      <Name>Movie Maker</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{6102FAC5-84EA-3E3F-9D45-3E9ADD8EEC72}</IdentifyingNumber>
+      <Name>Paquete de idioma de Microsoft Visual Studio Team Foundation Server 2012 Team Explorer - ESN</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{9093B0D5-EA59-4C9E-A2E3-CC130138DFCD}</IdentifyingNumber>
+      <Name>Fotogaléria</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{3FE312D5-B862-40CE-8E4E-A6D8ABF62736}</IdentifyingNumber>
+      <Name>Microsoft ASP.NET MVC 4 Runtime</Name>
+      <Version>4.0.40804.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A7E73DE5-E5FD-4923-9D88-E09ECD1F3545}</IdentifyingNumber>
+      <Name>Podstawowe programy Windows Live</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{ADE1F206-1365-4B14-9A24-4B1A7DD58BAC}</IdentifyingNumber>
+      <Name>Windows Live UX Platform Language Pack</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{81CF4226-47C1-418C-8718-1B3ED2C37878}</IdentifyingNumber>
+      <Name>Windows Live Essentials</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{929FBD26-9020-399B-9A7A-751D61F0B942}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C30E2F36-6F30-433E-B399-02C240E6173E}</IdentifyingNumber>
+      <Name>Complemento Microsoft Report Viewer para Visual Studio 2012</Name>
+      <Version>11.1.2802.16</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{68FC0046-2F69-497C-ABCC-47C6C54AB253}</IdentifyingNumber>
+      <Name>Microsoft SQL Server 2012 Express LocalDB</Name>
+      <Version>11.0.2100.60</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{04CCBB46-37C1-4623-9477-C65A32DFD023}</IdentifyingNumber>
+      <Name>Photo Common</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{42F61556-29ED-8122-F39E-6F04EA5FF279}</IdentifyingNumber>
+      <Name>Windows Software Development Kit for Windows Store Apps DirectX x86 Remote</Name>
+      <Version>8.59.25584</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{1690CE56-2231-4E59-9006-A0876D949EA8}</IdentifyingNumber>
+      <Name>Tools for .Net 3.5</Name>
+      <Version>3.11.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{4AA2A466-8031-403A-8236-5301B4E391FB}</IdentifyingNumber>
+      <Name>Windows Live UX Platform Language Pack</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{FBBC8076-BB21-4E06-9FA0-309AEF6E35EE}</IdentifyingNumber>
+      <Name>Microsoft ASP.NET Web Pages 2 Runtime</Name>
+      <Version>2.0.20710.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{5FCE6D76-F5DC-37AB-B2B8-22AB8CEDB1D4}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161</Name>
+      <Version>9.0.30729.6161</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{AC76BA86-7AD7-1034-7B44-AB0000000001}</IdentifyingNumber>
+      <Name>Adobe Reader XI (11.0.10) - Español</Name>
+      <Version>11.0.10</Version>
+      <Vendor>Adobe Systems Incorporated</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Adobe\Reader 11.0\Reader\</InstallLocation>
+      <URLInfoAbout>http://www.adobe.es/products/acrobat/main.html</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{230C9C86-26A9-437F-8152-34D5F4C3F680}</IdentifyingNumber>
+      <Name>Oracle VM VirtualBox 4.2.18</Name>
+      <Version>4.2.18</Version>
+      <Vendor>Oracle Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://www.virtualbox.org</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{797DC296-ADC5-4A08-8CBC-AEB0D6F4B249}</IdentifyingNumber>
+      <Name>Windows Live Essentials</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{0EA5B5B6-4537-4989-B522-69772E79CE49}</IdentifyingNumber>
+      <Name>Microsoft SQL Server System CLR Types (x64)</Name>
+      <Version>10.50.1600.1</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{F9B257B6-0DA2-40E1-BAE4-0D64A2C9EE5E}</IdentifyingNumber>
+      <Name>Windows Live Essentials</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{9038E0C6-9CB9-4380-8FA3-B6B30FA304CF}</IdentifyingNumber>
+      <Name>Основи Windows Live</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{9BE518E6-ECC6-35A9-88E4-87755C07200F}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161</Name>
+      <Version>9.0.30729.6161</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A749D8E6-B613-3BE3-8F5F-045C84EBA29B}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{372D17F6-A54E-4A01-B264-1314890FFE61}</IdentifyingNumber>
+      <Name>Dotfuscator and Analytics Community Edition</Name>
+      <Version>5.5.4521.29298</Version>
+      <Vendor>PreEmptive Solutions</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022</Name>
+      <Version>9.0.21022</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{FC6C7107-7D72-41A1-A031-3CE751159BAB}</IdentifyingNumber>
+      <Name>Photo Gallery</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{9F470E17-4FC3-4091-A508-D5347A16A2B9}</IdentifyingNumber>
+      <Name>Fotogalleriet</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{751EB657-3F22-4150-8CE4-D79A262F1D92}</IdentifyingNumber>
+      <Name>Movie Maker</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{8063EB67-E777-4A56-9C1E-FAD75C2F5EC2}</IdentifyingNumber>
+      <Name>Photo Common</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{23176E97-26CB-C72A-19EB-BFB21AC1D15A}</IdentifyingNumber>
+      <Name>Windows Software Development Kit DirectX x86 Remote</Name>
+      <Version>8.59.25584</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{989889A7-D13D-4DA4-B059-B250784DFABC}</IdentifyingNumber>
+      <Name>Photo Common</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{ACE848B7-145C-4230-9B95-BA9C98A51AA6}</IdentifyingNumber>
+      <Name>Fotogalerii</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{E09C4DB7-630C-4F06-A631-8EA7239923AF}</IdentifyingNumber>
+      <Name>D3DX10</Name>
+      <Version>15.4.2368.0902</Version>
+      <Vendor>Microsoft</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{612C34C7-5E90-47D8-9B5C-0F717DD82726}</IdentifyingNumber>
+      <Name>swMSM</Name>
+      <Version>12.0.0.1</Version>
+      <Vendor>Adobe Systems, Inc</Vendor>
+      <InstallLocation>C:\WINDOWS\My Product Name\</InstallLocation>
+      <URLInfoAbout>http://www.adobe.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{37B8F9C7-03FB-3253-8781-2517C99D7C00}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030</Name>
+      <Version>11.0.61030</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{E0476CC7-E960-49B8-AAC1-7F95931A3E6B}</IdentifyingNumber>
+      <Name>Microsoft SQL Server 2012 Management Objects</Name>
+      <Version>11.0.2100.60</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{57D782D7-49FD-48DE-AB47-A690A1519A2D}</IdentifyingNumber>
+      <Name>Microsoft ASP.NET Web Pages 2 - Visual Studio 2012 Tools</Name>
+      <Version>2.0.20710.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{3FA063D7-EDC1-AFA8-54AF-0563C7DEE070}</IdentifyingNumber>
+      <Name>Windows App Certification Kit Native Components</Name>
+      <Version>8.59.25584</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{2AC4C6D7-512D-4B78-A85B-2C16E748AB8E}</IdentifyingNumber>
+      <Name>Movie Maker</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{D75CB2F7-D66C-4376-84EE-E7E3A700DDDE}</IdentifyingNumber>
+      <Name>Microsoft ASP.NET MVC 4 - Visual Studio 2012 Tools - ESN</Name>
+      <Version>4.0.20710.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{DB7B6508-2AAB-4F26-99D4-74559A2F5E42}</IdentifyingNumber>
+      <Name>Fotoğraf Galerisi</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C7929038-EDFB-416D-A2C9-CC65416DA0DF}</IdentifyingNumber>
+      <Name>Photo Common</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{000AD938-EEBB-46F5-BD33-23CB34A57C54}</IdentifyingNumber>
+      <Name>Movie Maker</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{DF446558-ADF7-4884-9B2D-281979CCE71F}</IdentifyingNumber>
+      <Name>Qualcomm Atheros Killer Network Manager</Name>
+      <Version>6.1.0.550</Version>
+      <Vendor>Qualcomm Atheros</Vendor>
+      <InstallLocation>C:\Program Files\Qualcomm Atheros\Killer Network Manager\</InstallLocation>
+      <URLInfoAbout>http://www.KillerGaming.com/</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{03CC9D58-B132-4CC0-A521-4F3660AA43C7}</IdentifyingNumber>
+      <Name>Movie Maker</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{7CF7B268-71BE-4D04-9BFE-7CD831EB35CC}</IdentifyingNumber>
+      <Name>Blend for Visual Studio 2012 ESN resources</Name>
+      <Version>5.0.30709.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Visual Studio 11.0\Blend\</InstallLocation>
+      <URLInfoAbout>http://go.microsoft.com/fwlink/?LinkID=75064</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{BA068968-594F-40BE-8EE8-99119123C991}</IdentifyingNumber>
+      <Name>Windows Live UX Platform Language Pack</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{0BFF2188-2D8E-4BE2-95D0-B3CCD4C6A0C9}</IdentifyingNumber>
+      <Name>Photo Common</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{D1F5A388-09C9-4998-A793-B15DCDEB3B42}</IdentifyingNumber>
+      <Name>Photo Common</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{E0E0FB88-D570-463E-A98E-733B7B656867}</IdentifyingNumber>
+      <Name>Photo Gallery</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{B66CFC88-6729-4A0F-8610-258413159C35}</IdentifyingNumber>
+      <Name>Windows Live UX Platform Language Pack</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{048C8498-C20B-4AF7-9978-7A79E567D74C}</IdentifyingNumber>
+      <Name>Photo Common</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{330E5D98-20D2-4CA4-AE51-FCB8AA80F634}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio 2012 Devenv</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{CFEF48A8-BFB8-3EAC-8BA5-DE4F8AA267CE}</IdentifyingNumber>
+      <Name>Microsoft .NET Framework 4 Multi-Targeting Pack</Name>
+      <Version>4.0.30319</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{93489CA8-6656-33A0-A5AC-E0EDEDB17C3E}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio Professional 2012</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{8E14DDC8-EA60-4E18-B3E3-1937104D5BDA}</IdentifyingNumber>
+      <Name>MSVCRT110</Name>
+      <Version>16.4.1108.0727</Version>
+      <Vendor>Microsoft</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{058EDEC8-1873-4B49-9A08-54ADE9CC129B}</IdentifyingNumber>
+      <Name>Movie Maker</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{E37CD6E8-BC51-4D48-9840-803EC3B418D3}</IdentifyingNumber>
+      <Name>גלריית התמונות</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{7AE6C129-145B-3241-B82F-848E52B86BDA}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio Professional 2012 - ESN</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{1948E039-EC79-4591-951D-9867A8C14C90}</IdentifyingNumber>
+      <Name>Microsoft .NET Framework 4.5 SDK</Name>
+      <Version>4.5.50709</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{5BABDA39-61CF-41EE-992D-4054B6649A9B}</IdentifyingNumber>
+      <Name>Movie Maker</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A92DAB39-4E2C-4304-9AB6-BC44E68B55E2}</IdentifyingNumber>
+      <Name>Google Update Helper</Name>
+      <Version>1.3.25.11</Version>
+      <Vendor>Google Inc.</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{53436849-2E5A-3433-A5BE-F7A10403C651}</IdentifyingNumber>
+      <Name>Paquete de idioma de Visor de Ayuda de Microsoft 2.0 - ESN</Name>
+      <Version>2.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{D04EBB49-C985-4A38-8695-62000861293A}</IdentifyingNumber>
+      <Name>Raccolta foto</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{F07BB259-CA70-4443-9E32-7B1F3F2703C7}</IdentifyingNumber>
+      <Name>Microsoft Web Deploy dbSqlPackage Provider - ESN</Name>
+      <Version>10.3.20225.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{8E36F359-199F-48F4-BC0F-A321E77B4F8C}</IdentifyingNumber>
+      <Name>Microsoft Web Developer Tools - Visual Studio 2012 - ESN</Name>
+      <Version>1.0.30710.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{30E9D969-CFC2-4D86-AAC4-2393EE719065}</IdentifyingNumber>
+      <Name>Microsoft ASP.NET MVC 3 - Visual Studio 2012 Tools Update - ESN</Name>
+      <Version>3.0.30710.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{34F97399-6C74-4309-841D-11139028CDE7}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio 2012 Tools para SQL Server Compact 4.0 SP1 ESN</Name>
+      <Version>4.0.8876.1</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{4AF53C99-315D-4536-873F-029D2D274AE2}</IdentifyingNumber>
+      <Name>Photo Common</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{7BF61FA9-BDFB-4563-98AD-FCB0DA28CCC7}</IdentifyingNumber>
+      <Name>IIS 8.0 Express</Name>
+      <Version>8.0.1557</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{7437A4B9-314F-3B8F-827B-22909146E471}</IdentifyingNumber>
+      <Name>Microsoft LightSwitch for Visual Studio 2012 Core</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{CAEDA0C9-8B41-4D69-B4D6-5AC66AAF44FB}</IdentifyingNumber>
+      <Name>Photo Common</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{087B60D9-CC03-3E5D-B646-0334EA4BEB3E}</IdentifyingNumber>
+      <Name>Microsoft LightSwitch para Visual Studio 2012 CoreRes - ESN</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{AB30E5D9-2BBF-4C75-B2B3-2EFC89CEE4DD}</IdentifyingNumber>
+      <Name>WCF Data Services 5.0 (for OData v3) ESN Language Pack</Name>
+      <Version>5.0.50628.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{6D9DD7D9-4167-4541-8DA8-619B9B802D72}</IdentifyingNumber>
+      <Name>Fotogalerija</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90993BD9-C7D9-4C2F-B56C-2F7AFEBD4CD0}</IdentifyingNumber>
+      <Name>Windows Live UX Platform Language Pack</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{6ce5bae9-d3ca-4b99-891a-1dc6c118a5fc}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2005 Redistributable (x64)</Name>
+      <Version>8.0.59192</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C034A6F9-6569-491B-B3BF-F5D15221A708}</IdentifyingNumber>
+      <Name>Windows Live Essentials</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{ED6C77F9-4D7E-447C-9EC0-9A212D075535}</IdentifyingNumber>
+      <Name>Movie Maker</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{3A523AF9-D32F-4C85-8388-0335731F3405}</IdentifyingNumber>
+      <Name>WCF RIA Services V1.0 SP2</Name>
+      <Version>4.1.61829.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{10D4450A-2985-4C2C-A0E4-0622EB094FE8}</IdentifyingNumber>
+      <Name>Recursos DevEnv de Microsoft Visual Studio 2012</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{60EC980A-BDA2-4CB6-A427-B07A5498B4CA}</IdentifyingNumber>
+      <Name>Google Update Helper</Name>
+      <Version>1.3.27.5</Version>
+      <Vendor>Google Inc.</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{2F6CE32A-018D-4656-895B-9E5E20D7740A}</IdentifyingNumber>
+      <Name>Microsoft ASP.NET MVC 3 - Visual Studio 2012 Tools Update</Name>
+      <Version>3.0.30710.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{0F7DF32A-54FD-4B7E-8136-6BFF66B8CD35}</IdentifyingNumber>
+      <Name>Microsoft ASP.NET Web Pages 2 Runtime - ESN</Name>
+      <Version>2.0.20710.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{BDBE5D2A-AAB7-77BD-7A0E-5006665CE7C6}</IdentifyingNumber>
+      <Name>LocalESPC</Name>
+      <Version>8.59.25584</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{AD1AEE2A-D9C0-3FAC-8D6B-B5E07B47257B}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2012 Core Libraries</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{60D5EF2A-4E0C-2C30-38F6-59C26E134F4A}</IdentifyingNumber>
+      <Name>Windows Software Development Kit</Name>
+      <Version>8.59.25584</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{B097793A-07F5-4781-BEE6-C4B14559FC4E}</IdentifyingNumber>
+      <Name>Entity Framework Designer para Visual Studio 2012 - ESN</Name>
+      <Version>11.1.20702.00</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C07F934A-3253-4740-86B8-22BA5F571E6E}</IdentifyingNumber>
+      <Name>Hybrid Power</Name>
+      <Version>1.0.1304.0301</Version>
+      <Vendor>Micro-Star International Co., Ltd.</Vendor>
+      <InstallLocation>C:\Program Files (x86)\MSI\Hybrid Power\</InstallLocation>
+      <URLInfoAbout>http://www.msi.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{D1952E4A-9F67-4693-A06D-DA8E0FB2B00D}</IdentifyingNumber>
+      <Name>Windows Live Essentials</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{1DB43E5A-2F24-4F51-92B0-A2C0EBF5C742}</IdentifyingNumber>
+      <Name>Microsoft Report Viewer Add-On for Visual Studio 2012</Name>
+      <Version>11.1.2802.16</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C32F4F5A-C9FB-427C-9F6F-9DB157611FFF}</IdentifyingNumber>
+      <Name>Valokuvavalikoima</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{EEEFD86A-66B8-3117-8D50-733404E5910F}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio Ultimate 2012 XAML UI Designer esn Resources</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{8DD46C6A-0056-4FEC-B70A-28BB16A1F11F}</IdentifyingNumber>
+      <Name>MSVCRT</Name>
+      <Version>15.4.2862.0708</Version>
+      <Vendor>Microsoft</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{EB91007A-0110-42A6-B869-2709955A9B2A}</IdentifyingNumber>
+      <Name>Photo Common</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{820C677A-41B2-48C3-8136-FEE35A052E73}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio 2012 Shell (Minimum) Interop Assemblies</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{5172DE8A-2640-474E-B89F-A04A90312A74}</IdentifyingNumber>
+      <Name>SCM</Name>
+      <Version>10.013.04183</Version>
+      <Vendor>Application</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{9869099A-6A44-4590-9430-BF7AC74EBCC6}</IdentifyingNumber>
+      <Name>Windows Live UX Platform Language Pack</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{0454BB9A-2A7A-4214-BDFF-937F7A711A44}</IdentifyingNumber>
+      <Name>Windows Live Communications Platform</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{B618B2AA-4B45-3B04-98CA-50466370B650}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio 2010 Tools for Office Runtime (x64) Language Pack - ESN</Name>
+      <Version>10.0.50903</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{89AF07BA-5B5E-442C-AF41-AA6C63E60749}</IdentifyingNumber>
+      <Name>Microsoft SQL Server 2012 Transact-SQL Compiler Service</Name>
+      <Version>11.0.2100.60</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A17946CA-18E5-4CF0-8D55-A56D804718F8}</IdentifyingNumber>
+      <Name>Movie Maker</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{8176B9CA-F037-49C0-BD77-661B1DDCA6F3}</IdentifyingNumber>
+      <Name>Movie Maker</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{187A0FCA-2FE2-4827-83CA-D4887E965047}</IdentifyingNumber>
+      <Name>Photo Common</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{2C76E3DA-BA76-4FAD-B1B1-72B46D639028}</IdentifyingNumber>
+      <Name>PreEmptive Analytics Visual Studio Components</Name>
+      <Version>1.0.2180.1</Version>
+      <Vendor>PreEmptive Solutions</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://www.preemptive.com/products/runtime-intelligence/overview</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A3A6D5EA-B6B5-3C05-BDA8-EAB99C09CDDC}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio 2012 SharePoint Developer Tools</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A3D995FA-C9A0-4E7D-B430-3F7A6731B4D5}</IdentifyingNumber>
+      <Name>Windows Live UX Platform Language Pack</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{BAD4B8FA-4BDA-4A59-BE64-9741031680C7}</IdentifyingNumber>
+      <Name>Movie Maker</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{087D261B-73AE-4B8A-8F18-2EE80DD2ED8B}</IdentifyingNumber>
+      <Name>Фотоальбом</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{E18F981B-401C-4D90-BC57-D8903564D558}</IdentifyingNumber>
+      <Name>Windows Live UX Platform Language Pack</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{2A078A2B-E2C8-43A3-862C-DC57090AB7C2}</IdentifyingNumber>
+      <Name>Movie Maker</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{9763733B-6453-4EC3-BFD2-92FB60889204}</IdentifyingNumber>
+      <Name>Microsoft ASP.NET Web Pages - ESN</Name>
+      <Version>1.0.20105.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{731C183B-86A0-3442-BE55-68A7C92581E9}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2012 Extended Libraries</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{EA348D4B-FB4D-4449-8749-654CA51F56A6}</IdentifyingNumber>
+      <Name>Windows Live UX Platform Language Pack</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{F845936B-E004-4F9C-A1DA-CDB99FF440F0}</IdentifyingNumber>
+      <Name>Microsoft SQL Server 2012 Native Client</Name>
+      <Version>11.0.2100.60</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{F09DD76B-D3D3-4558-B5BC-F1EEA6E00162}</IdentifyingNumber>
+      <Name>Windows Live UX Platform Language Pack</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{F3FCB08B-E752-444D-86A0-0634A4F3B23D}</IdentifyingNumber>
+      <Name>System Requirements Lab CYRI</Name>
+      <Version>6.0.8.0</Version>
+      <Vendor>Husdawg, LLC</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{FEB375AB-6EEC-3929-8FAF-188ED81DD8B5}</IdentifyingNumber>
+      <Name>Microsoft Help Viewer 2.0</Name>
+      <Version>2.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{6010A3CB-5284-4D06-B231-8DF9FEB7A6F0}</IdentifyingNumber>
+      <Name>Microsoft ASP.NET MVC 4 Runtime - ESN</Name>
+      <Version>4.0.20710.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C5B383EB-B85B-481C-9946-34FBF021678B}</IdentifyingNumber>
+      <Name>Galerija fotografija</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{FEF39EFB-D36C-4799-89AE-7602B9AE03CF}</IdentifyingNumber>
+      <Name>Preparación de Microsoft Visual Studio 2012</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{B175520C-86A2-35A7-8619-86DC379688B9}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030</Name>
+      <Version>11.0.61030</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{710f4c1c-cc18-4c49-8cbf-51240c89a1a2}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2005 Redistributable</Name>
+      <Version>8.0.61001</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{F67CA22C-C11F-4573-8406-57F75BA06B51}</IdentifyingNumber>
+      <Name>Photo Gallery</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{83B9CB2C-0148-4880-A6EB-179B10AA132C}</IdentifyingNumber>
+      <Name>Microsoft ASP.NET Web Pages - Visual Studio 2012 Tools - ESN</Name>
+      <Version>1.0.20710.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{CF2BEA3C-26EA-32F8-AA9B-331F7E34BA97}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030</Name>
+      <Version>11.0.61030</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{B727564C-47D3-473A-AC9E-F4BE7B1BD5D3}</IdentifyingNumber>
+      <Name>Windows Live UX Platform Language Pack</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{3D4F3F4C-E364-4E46-BFB1-A00BF9777422}</IdentifyingNumber>
+      <Name>Windows Live UX Platform Language Pack</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{CCE4F26C-89D8-3977-985F-AFA69761B698}</IdentifyingNumber>
+      <Name>Paquete de idioma del modelo de objetos de Microsoft Visual Studio Team Foundation Server 2012 - ESN</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{3123396C-3EFE-4DCB-8033-F5D182D6597D}</IdentifyingNumber>
+      <Name>Windows Live Essentials</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{61862D7C-CDBC-48D5-8AE1-3B8BD1E23BC5}</IdentifyingNumber>
+      <Name>Visual Studio 2012 Prerequisites</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{E1203F8C-FF34-4968-A4A5-B4F1F8533DAB}</IdentifyingNumber>
+      <Name>Photo Common</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{B7F31B9C-8775-4500-8E9D-6ABE9AE17CF4}</IdentifyingNumber>
+      <Name>Windows Live Essentials</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{62FF5AAC-013B-42EB-9A06-81914AB132D5}</IdentifyingNumber>
+      <Name>Photo Common</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{701FE1BC-834A-4857-AF62-6EBA50CFBC78}</IdentifyingNumber>
+      <Name>Movie Maker</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{36E619BC-A234-4EC3-849B-779A7C865A45}</IdentifyingNumber>
+      <Name>Microsoft SQL Server 2012 Data-Tier App Framework</Name>
+      <Version>11.0.2316.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{1FEE19BC-6F0C-42E4-82FF-FB597F6141DF}</IdentifyingNumber>
+      <Name>Windows Live Essentials</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{00EC8ABC-3C5A-40F8-A8CB-E7DCD5ABFA05}</IdentifyingNumber>
+      <Name>Microsoft NuGet - Visual Studio 2012</Name>
+      <Version>2.0.30625.9003</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{E50E3DBC-46AA-4827-B2A6-F995D81DF526}</IdentifyingNumber>
+      <Name>Fotótár</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{D824AFCC-3408-4FB2-A6C9-28C660700DD4}</IdentifyingNumber>
+      <Name>Photo Common</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{62BBCDDC-4979-4E59-9D97-5B8E874C3191}</IdentifyingNumber>
+      <Name>Movie Maker</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{8F7FECEC-088F-431D-A5FB-2B59E1E69943}</IdentifyingNumber>
+      <Name>Galería de fotos</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{1F1C2DFC-2D24-3E06-BCB8-725134ADF989}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148</Name>
+      <Version>9.0.30729.4148</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{D7126FFC-90BA-4120-8FFB-3688C9931A09}</IdentifyingNumber>
+      <Name>Microsoft SQL Server Compact 4.0 SP1 x64 ESN</Name>
+      <Version>4.0.8876.1</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files\Microsoft SQL Server Compact Edition\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{BDBBC90D-79EE-4E48-ACED-BF03F87F9412}</IdentifyingNumber>
+      <Name>PreEmptive Analytics Client Spanish Language Pack</Name>
+      <Version>1.0.2180.1</Version>
+      <Vendor>PreEmptive Solutions</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://www.preemptive.com/products/runtime-intelligence/overview</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{CE542E0D-E056-4426-9F98-084C13E18641}</IdentifyingNumber>
+      <Name>Windows Live UX Platform Language Pack</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{D58ED42D-08B2-460F-87DC-F80AAC3A8FED}</IdentifyingNumber>
+      <Name>Microsoft Silverlight 4 SDK - Español</Name>
+      <Version>4.0.60310.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{27EF252D-800C-ED42-9904-459FE0046225}</IdentifyingNumber>
+      <Name>Windows Software Development Kit for Windows Store Apps DirectX x64 Remote</Name>
+      <Version>8.59.25584</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{FE7C0B3D-50B9-4951-BE78-A321CBF86552}</IdentifyingNumber>
+      <Name>Windows Live SOXE</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{56232E3D-7EA9-45E0-A371-26CD80510AF7}</IdentifyingNumber>
+      <Name>Windows Live UX Platform Language Pack</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{572E796D-C52B-3797-A685-2FB6F895D4BE}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio 2010 Office Developer Tools (x64)</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{89F4137D-6C26-4A84-BDB8-2E5A4BB71E00}</IdentifyingNumber>
+      <Name>Microsoft Silverlight</Name>
+      <Version>5.1.40416.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files\Microsoft Silverlight\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{1F0C818D-4A41-4E40-BAFB-BB940C82A518}</IdentifyingNumber>
+      <Name>Fotogalerija</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{E2B8249D-895C-4685-8C83-00F3B1A13028}</IdentifyingNumber>
+      <Name>Microsoft Web Platform Installer 4.0</Name>
+      <Version>4.0.1622</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{BFA6D5AD-25EA-475F-AD80-ECD408C674AB}</IdentifyingNumber>
+      <Name>Movie Maker</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{6EB540BD-BA76-44E9-928A-AB7508F448B8}</IdentifyingNumber>
+      <Name>Microsoft SQL Server 2012 Transact-SQL ScriptDom</Name>
+      <Version>11.0.2100.60</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{148878BD-A2A5-4CF1-A103-2BA632F41953}</IdentifyingNumber>
+      <Name>WCF Data Services Tools for Microsoft Visual Studio 2012</Name>
+      <Version>5.0.50710.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{BD95A8CD-1D9F-35AD-981A-3E7925026EBB}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030</Name>
+      <Version>11.0.61030</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{8A642ACD-CE3A-4A23-A8B1-A0F7EB12B214}</IdentifyingNumber>
+      <Name>Windows Live SOXE Definitions</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{DEC235ED-58A4-4517-A278-C41E8DAEAB3B}</IdentifyingNumber>
+      <Name>PowerDVD</Name>
+      <Version>10.00.0000</Version>
+      <Vendor>CyberLink Corp.</Vendor>
+      <InstallLocation>C:\Program Files (x86)\CyberLink\PowerDVD10\</InstallLocation>
+      <URLInfoAbout>http://www.CyberLink.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{631D71FD-237F-4D74-B090-88E66FBC5A10}</IdentifyingNumber>
+      <Name>Dazzle Video Capture DVC100 X64 Driver 1.07</Name>
+      <Version>1.07.0000</Version>
+      <Vendor>Pinnacle</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Pinnacle\Dazzle Video Capture DVC100 X64 Driver 1.07\</InstallLocation>
+      <URLInfoAbout>http://www.Pinnaclesys.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{FBA6F90E-36EC-4FC9-9B25-3834E3BD46A8}</IdentifyingNumber>
+      <Name>Microsoft SQL Server 2012 Data-Tier App Framework</Name>
+      <Version>11.0.2316.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{89B4532E-19CE-4FA9-9692-10BFD5A38532}</IdentifyingNumber>
+      <Name>Visual Studio Extensions for Windows Library for JavaScript</Name>
+      <Version>1.0.8514.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{88809C3E-8C92-4454-AEB7-B26166E3D6CD}</IdentifyingNumber>
+      <Name>Windows Live UX Platform Language Pack</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{800F484E-9D69-492D-B656-7BAA32586142}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio 2012 Shell (Minimum)</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C424CD5E-EA05-4D3E-B5DA-F9F149E1D3AC}</IdentifyingNumber>
+      <Name>Windows Live Installer</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{0E22C06E-DCC1-48D6-9A47-3671F673B8C1}</IdentifyingNumber>
+      <Name>Servicio de lenguaje T-SQL de Microsoft SQL Server 2012</Name>
+      <Version>11.0.2100.60</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{3FD0036E-236A-4EDD-894D-4374BEE64464}</IdentifyingNumber>
+      <Name>Windows Live UX Platform Language Pack</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{0F6A576E-C6E3-437E-B389-262EBC86B09A}</IdentifyingNumber>
+      <Name>Windows Live UX Platform Language Pack</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{F5248B7E-779A-4FA4-8134-D1933D8680FA}</IdentifyingNumber>
+      <Name>Galeria de Fotos</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{F1CA7DAE-F998-499C-8CA5-FC58CA2416EC}</IdentifyingNumber>
+      <Name>Windows Live Essentials</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{631471BE-DEAB-454B-A9AC-CE3EB42C28B3}</IdentifyingNumber>
+      <Name>Microsoft ASP.NET Web Pages</Name>
+      <Version>1.0.20105.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{F5E338CE-E1C6-4F7D-8300-44DBD05B9F14}</IdentifyingNumber>
+      <Name>Galeria de Fotografias</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{446CC8CE-0E90-44F7-ADD0-774B243EF090}</IdentifyingNumber>
+      <Name>Galerie de photos</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{DCA5D0DE-F6AC-4E24-A924-03561D26BE97}</IdentifyingNumber>
+      <Name>Windows Live Essentials</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{5D4A51DE-0236-BCED-3C77-F8B2289EA534}</IdentifyingNumber>
+      <Name>Windows Runtime Intellisense Content - es-es</Name>
+      <Version>8.59.25584</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{0490B3DE-AE17-4B17-957C-CA4800786E57}</IdentifyingNumber>
+      <Name>Paquete de idioma de Dotfuscator and Analytics Community Edition</Name>
+      <Version>5.5.4521.29298</Version>
+      <Vendor>PreEmptive Solutions</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{9F2945EE-C42D-4946-B857-11F697E34D67}</IdentifyingNumber>
+      <Name>Herramientas de recopilación de Microsoft Visual Studio 2012 - ESN</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{FC78A8EE-2C7F-44A7-A2D8-9676577F9CE2}</IdentifyingNumber>
+      <Name>Windows Live Essentials</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{9B4D3AFE-8679-4704-AA4C-BAB0E41870EF}</IdentifyingNumber>
+      <Name>Windows Live Essentials</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{8220EEFE-38CD-377E-8595-13398D740ACE}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17</Name>
+      <Version>9.0.30729</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A035950F-15BA-41C0-9D8F-165FC0536012}</IdentifyingNumber>
+      <Name>Movie Maker</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{E9FA781F-3E80-4399-825A-AD3E11C28C77}</IdentifyingNumber>
+      <Name>MSVCRT110_amd64</Name>
+      <Version>16.4.1109.0912</Version>
+      <Vendor>Microsoft</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{8E80802F-5404-3DF1-8FB2-D05ADB02898B}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2012  x64 Designtime - 11.0.50727</Name>
+      <Version>11.0.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{63B1E33F-F243-4656-A600-125D6963B43A}</IdentifyingNumber>
+      <Name>Movie Maker</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{FE5B524F-CD89-4457-B8C1-9299F17E6634}</IdentifyingNumber>
+      <Name>Windows Live UX Platform Language Pack</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{B96FCD4F-6EDD-4258-8A6D-0FCEA8445E3E}</IdentifyingNumber>
+      <Name>Microsoft Web Developer Tools - Visual Studio 2012</Name>
+      <Version>1.0.30710.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{4A03706F-666A-4037-7777-5F2748764D10}</IdentifyingNumber>
+      <Name>Java Auto Updater</Name>
+      <Version>2.8.25.18</Version>
+      <Vendor>Oracle Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{0BCC836F-0B28-4090-B58A-64883BAA3B2F}</IdentifyingNumber>
+      <Name>WCF Data Services 5.0 (for OData v3) Primary Components</Name>
+      <Version>5.0.50628.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{28B2947F-FC0B-4450-80E3-6DF698E824A6}</IdentifyingNumber>
+      <Name>Windows Liven peruspaketti</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A49F249F-0C91-497F-86DF-B2585E8E76B7}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2005 Redistributable</Name>
+      <Version>8.0.50727.42</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A6C48A9F-694A-4234-B3AA-62590B668927}</IdentifyingNumber>
+      <Name>Intel(R) Manageability Engine Firmware Recovery Agent</Name>
+      <Version>1.0.0.36702</Version>
+      <Vendor>Intel Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C2F1EBBF-9AC4-4E0B-A7F4-74C9C7AD4813}</IdentifyingNumber>
+      <Name>Galerie foto</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{1E8D35CF-17C5-41D7-ADF8-F9979AB271B1}</IdentifyingNumber>
+      <Name>Microsoft SQL Server Data Tools - ESN (11.1.20627.00)</Name>
+      <Version>11.1.20627.00</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{F7304CCF-B4A0-49C7-88A8-CD3F28FFBF9A}</IdentifyingNumber>
+      <Name>Основные компоненты Windows Live</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{862780DF-67D4-40B4-BDC7-E82B3F116504}</IdentifyingNumber>
+      <Name>Movie Maker</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{EFCB35DF-0CD7-4A8C-9C62-A0F909AD2498}</IdentifyingNumber>
+      <Name>Utilidades línea de comandos de Microsoft SQL Server 2012</Name>
+      <Version>11.0.2100.60</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{AA82E5EF-70C2-41CB-8432-309078304CBB}</IdentifyingNumber>
+      <Name>Photo Common</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{306C7AEF-16C7-428D-93AA-99D4A4090243}</IdentifyingNumber>
+      <Name>Movie Maker</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{D11F66FF-82B3-DDB8-1146-525370552BE1}</IdentifyingNumber>
+      <Name>Windows Software Development Kit for Windows Store Apps</Name>
+      <Version>8.59.25584</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{8D813AFF-D91D-4EE0-821F-B901FC2E89FA}</IdentifyingNumber>
+      <Name>Windows Live</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{1532CEFF-ADB4-4230-BF03-30A6B3182663}</IdentifyingNumber>
+      <Name>Movie Maker</Name>
+      <Version>16.4.3505.0912</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+  </sw>
+</components>

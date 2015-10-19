@@ -1,0 +1,44 @@
+/**
+
+	Estils personalitzats afegits per mí.
+
+*/
+
+body
+{
+	/*background-color: #eee;*/
+	background: rgba(134,174,204,1);
+	background: -moz-radial-gradient(center, ellipse cover, rgba(134,174,204,1) 0%, rgba(212,228,239,0) 100%);
+	background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(134,174,204,1)), color-stop(100%, rgba(212,228,239,0)));
+	background: -webkit-radial-gradient(center, ellipse cover, rgba(134,174,204,1) 0%, rgba(212,228,239,0) 100%);
+	background: -o-radial-gradient(center, ellipse cover, rgba(134,174,204,1) 0%, rgba(212,228,239,0) 100%);
+	background: -ms-radial-gradient(center, ellipse cover, rgba(134,174,204,1) 0%, rgba(212,228,239,0) 100%);
+	background: radial-gradient(ellipse at center, rgba(134,174,204,1) 0%, rgba(212,228,239,0) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#86aecc', endColorstr='#d4e4ef', GradientType=1 );
+}
+.centerMine
+{
+	text-align:center;
+}
+.leftMine
+{
+	text-align:right;
+}
+.rightMine
+{
+	text-align:right;
+}
+.rightMine button
+{
+	color: black;
+	margin: 1px;
+}
+.pointerMine
+{
+	cursor: pointer;
+}
+.imgMine
+{
+	width: 190px;
+	height: 175px;
+}

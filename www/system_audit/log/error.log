@@ -1,0 +1,4 @@
+PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in /var/www/system_audit/php/models/db.php on line 31
+PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /var/www/system_audit/php/models/db.php on line 90
+PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /var/www/system_audit/php/services/check_status.php on line 28
+PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /var/www/system_audit/php/models/db.php on line 39

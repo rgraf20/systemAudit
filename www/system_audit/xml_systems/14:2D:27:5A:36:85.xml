@@ -1,0 +1,2228 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<components>
+  <system>
+    <mac>14:2D:27:5A:36:85</mac>
+    <status>OFFLINE</status>
+  </system>
+  <motherboard>
+    <SerialNumber>NBMEP1100141489BD23400</SerialNumber>
+    <Manufacturer>Acer</Manufacturer>
+    <Model>N/A</Model>
+  </motherboard>
+  <bios>
+    <SerialNumber>NXMEPEB00941417BFC3400</SerialNumber>
+    <Manufacturer>Insyde Corp.</Manufacturer>
+    <Name>V2.06</Name>
+  </bios>
+  <memory>
+    <SerialNumber>0000653E</SerialNumber>
+    <Description>Memoria física</Description>
+    <Capacity>4294967296</Capacity>
+  </memory>
+  <video>
+    <DeviceID>VideoController1</DeviceID>
+    <AdapterCompatibility>Intel Corporation</AdapterCompatibility>
+    <Description>Intel(R) HD Graphics 4000</Description>
+    <AdapterRAM>2156539904</AdapterRAM>
+  </video>
+  <processor>
+    <ProcessorId>BFEBFBFF000306A9</ProcessorId>
+    <Manufacturer>GenuineIntel</Manufacturer>
+    <Name>Intel(R) Core(TM) i3-3217U CPU @ 1.80GHz</Name>
+    <Description>Intel64 Family 6 Model 58 Stepping 9</Description>
+    <MaxClockSpeed>1801</MaxClockSpeed>
+    <NumberOfCores>2</NumberOfCores>
+    <NumberOfLogicalProcessors>4</NumberOfLogicalProcessors>
+  </processor>
+  <network>
+    <DeviceID>6</DeviceID>
+    <Manufacturer>Qualcomm Atheros Communications Inc.</Manufacturer>
+    <Description>Qualcomm Atheros AR956x Wireless Network Adapter</Description>
+    <ip>192.168.56.1</ip>
+    <mask>255.255.255.0</mask>
+    <DefaultIPGateway>192.168.128.1</DefaultIPGateway>
+    <broadcasting>192.168.56.255</broadcasting>
+    <dns>172.17.1.5, 172.17.1.16</dns>
+  </network>
+  <disk>
+    <SerialNumber>WD-WX71EA3CFRY1</SerialNumber>
+    <DeviceID>C:</DeviceID>
+    <Manufacturer>(Unidades de disco estándar)</Manufacturer>
+    <Model>WDC WD10JPVX-22JC3T0</Model>
+    <FileSystem>NTFS</FileSystem>
+    <Size>981375905792</Size>
+    <FreeSpace>852026322944</FreeSpace>
+  </disk>
+  <windows>
+    <SerialNumber>00258-61334-35729-AAOEM</SerialNumber>
+    <Caption>Microsoft Windows 8.1</Caption>
+    <Version>6.3.9600</Version>
+    <hostname>PortatilRaven</hostname>
+    <workgroup>WORKGROUP</workgroup>
+    <RegisteredUser>Marshall</RegisteredUser>
+    <RegisteredPassword>N/A</RegisteredPassword>
+    <CountryCode>34</CountryCode>
+  </windows>
+  <sw>
+    <program>
+      <IdentifyingNumber>{BC0BF363-63AB-4FF7-8EF1-AE0D7F711B24}</IdentifyingNumber>
+      <Name>LPT System Updater Service</Name>
+      <Version>1.0.0.0</Version>
+      <Vendor>LPT</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{893418B4-4F82-4FED-9DA3-75C82778FC30}</IdentifyingNumber>
+      <Name>Secure Download Manager</Name>
+      <Version>3.1.60</Version>
+      <Vendor>Kivuto Solutions Inc.</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90150000-0138-0409-0000-0000000FF1CE}</IdentifyingNumber>
+      <Name>Microsoft Office</Name>
+      <Version>15.0.4454.1510</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{6A0C6700-EA93-372C-8871-DCCF13D160A4}</IdentifyingNumber>
+      <Name>Microsoft .NET Framework 4.5.1 Multi-Targeting Pack</Name>
+      <Version>4.5.50932</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{78909610-D229-459C-A936-25D92283D3FD}</IdentifyingNumber>
+      <Name>Microsoft SQL Server Compact 4.0 SP1 x64 ENU</Name>
+      <Version>4.0.8876.1</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files\Microsoft SQL Server Compact Edition\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{8FB53850-246A-3507-8ADE-0060093FFEA6}</IdentifyingNumber>
+      <Name>Visual Studio Tools for the Office system 3.0 Runtime</Name>
+      <Version>9.0.30729</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{37464E70-B0B9-9DFF-649A-CBE169BAD657}</IdentifyingNumber>
+      <Name>Windows Software Development Kit for Windows Store Apps</Name>
+      <Version>8.100.26831</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{37E53780-3944-4A6A-842F-727128E8616E}</IdentifyingNumber>
+      <Name>Blend for Visual Studio SDK for .NET 4.5</Name>
+      <Version>3.0.40218.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Visual Studio 11.0\Blend\</InstallLocation>
+      <URLInfoAbout>http://go.microsoft.com/fwlink/?LinkID=75064</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{73629F80-9DFE-421A-908B-C71FBD243E5A}</IdentifyingNumber>
+      <Name>Microsoft Report Viewer Add-On for Visual Studio 2013</Name>
+      <Version>11.1.3442.2</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{61C35890-79E1-4DC4-84CD-422649085B0F}</IdentifyingNumber>
+      <Name>Windows Phone 8.1 Tools for Visual Studio 2013</Name>
+      <Version>12.0.30723</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{0610DFB0-CCEA-6EC0-E3C3-A0160AD7FD98}</IdentifyingNumber>
+      <Name>Windows Runtime Intellisense Content - en-us</Name>
+      <Version>8.100.25984</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{678800C0-D94E-4513-89CB-478F2B781A0B}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2013 x86-x64 Compilers</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A5E19AD0-4910-3D43-B546-1FBA5271EEE7}</IdentifyingNumber>
+      <Name>Recursos de Microsoft Visual Studio 2013 Shell (mínimos)</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{56E962F0-4FB0-3C67-88DB-9EAA6EEFC493}</IdentifyingNumber>
+      <Name>Microsoft .NET Framework 4.5 Multi-Targeting Pack</Name>
+      <Version>4.5.50710</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{95160001-1163-0409-1000-0000000FF1CE}</IdentifyingNumber>
+      <Name>SharePoint Client Components</Name>
+      <Version>16.0.2617.1200</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{0B311221-05A5-4766-8D03-7A6446794156}</IdentifyingNumber>
+      <Name>Nero RescueAgent Help (CHM)</Name>
+      <Version>12.0.7000</Version>
+      <Vendor>Nero AG</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Nero\</InstallLocation>
+      <URLInfoAbout>http://www.nero.com/</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{6AB13C21-C3EC-46E1-8009-6FD5EBEE515B}</IdentifyingNumber>
+      <Name>Microsoft Advertising SDK for Windows 8.1 - ENU</Name>
+      <Version>8.1.30809.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{985EF141-95DD-3934-8F23-7C2C4C61E5F7}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio 2013 Shell (Minimum) Resources</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{1DBDCA41-2BDB-48EC-BB8D-E2B2F8EA83D9}</IdentifyingNumber>
+      <Name>Microsoft Azure Shared Components for Visual Studio 2013 - v1.2</Name>
+      <Version>1.2.20710.1601</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{23549951-AEAB-4407-B23D-EB1703B14DBA}</IdentifyingNumber>
+      <Name>Microsoft .NET Framework 4.5.1 SDK (español)</Name>
+      <Version>4.5.51641</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{1D2CEC61-C3F0-C27E-7280-F9D6B10378BE}</IdentifyingNumber>
+      <Name>Windows App Certification Kit Native Components</Name>
+      <Version>8.100.26629</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{ED6C8E61-363B-355C-80C7-E676BC781478}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio Premium 2013 - ENU</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A2D43081-CF7B-4637-A9F3-E2651AA5C4A8}</IdentifyingNumber>
+      <Name>Nero RescueAgent</Name>
+      <Version>12.0.3001</Version>
+      <Vendor>Nero AG</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Nero\</InstallLocation>
+      <URLInfoAbout>http://www.nero.com/</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{CD9E8281-2C2C-4383-9EAE-926F787BC22F}</IdentifyingNumber>
+      <Name>Microsoft LightSwitch for Visual Studio 2013 Core</Name>
+      <Version>12.0.30626</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{1D8E6291-B0D5-35EC-8441-6616F567A0F7}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219</Name>
+      <Version>10.0.40219</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{6C026A91-640F-4A23-8B68-05D589CC6F18}</IdentifyingNumber>
+      <Name>Microsoft SQL Server 2012 Express LocalDB</Name>
+      <Version>11.1.3000.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{5793BB91-4E91-3C3C-B93F-C2B1EEA35A5F}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio Ultimate 2013 - ENU</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{2495DC91-4EB5-4FCB-8619-CE980537B788}</IdentifyingNumber>
+      <Name>Microsoft Azure Shared Components for Visual Studio 2013 Language Pack (ENU) - v1.2</Name>
+      <Version>1.2.20710.1601</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{2B22F6A1-5E8E-49D6-B754-84FF69354314}</IdentifyingNumber>
+      <Name>Windows Phone 8.1 SDK - x86</Name>
+      <Version>8.1.12358</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{943F3FB1-3F9C-4FB7-A4E2-6D53617068C3}</IdentifyingNumber>
+      <Name>PreEmptive Analytics Visual Studio Components</Name>
+      <Version>1.2.3197.1</Version>
+      <Vendor>PreEmptive Solutions</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://www.preemptive.com/products/runtime-intelligence/overview</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A84A4FB1-D703-48DB-89E0-68B6499D2801}</IdentifyingNumber>
+      <Name>N/A</Name>
+      <Version>8.0.1.305</Version>
+      <Vendor>Qualcomm Atheros Communications</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Qualcomm Atheros\Bluetooth Suite\</InstallLocation>
+      <URLInfoAbout>http://www.qca.qualcomm.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{D8DEAAC1-A503-4C97-90F7-EF1E58A3E509}</IdentifyingNumber>
+      <Name>Microsoft C++ Azure Mobile SDK for Visual Studio 2013</Name>
+      <Version>1.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{6D7131D1-87E5-4677-BD6A-08DCF2529076}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio 2013 Performance Collection Tools</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219</Name>
+      <Version>10.0.40219</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{DB5600F1-DE83-46DE-B162-5FC4400EAF5B}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2013 Compilers</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{95150002-1163-0409-1000-0000000FF1CE}</IdentifyingNumber>
+      <Name>SharePoint Client Components</Name>
+      <Version>15.0.4569.1506</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{EE26E302-876A-48D9-9058-3129E5B99999}</IdentifyingNumber>
+      <Name>Live Updater</Name>
+      <Version>2.00.8100</Version>
+      <Vendor>Acer Incorporated</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://www.acer.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{B0A82E02-E959-3C46-AB11-D38527BC573E}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio Premium 2013</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{69C4FB12-204C-3362-9D48-75315A061F22}</IdentifyingNumber>
+      <Name>Microsoft ASP.NET and Web Tools 2013.3 - Visual Studio 12</Name>
+      <Version>12.3.50717.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{13A4EE12-23EA-3371-91EE-EFB36DDFFF3E}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{89DA2022-9143-4A7E-BD01-9B3D7343129D}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio 2013 IntelliTrace (x64)</Name>
+      <Version>12.0.30723</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{F8CFEB22-A2E7-3971-9EDA-4B11EDEFC185}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{D3517C62-68A5-37CF-92F7-93C029A89681}</IdentifyingNumber>
+      <Name>Microsoft .NET Framework 4.5.1 Multi-Targeting Pack (ENU)</Name>
+      <Version>4.5.50932</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{06EEE072-B561-38E5-85D9-485ABCBE8342}</IdentifyingNumber>
+      <Name>Visual F# 3.1 SDK</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{EF0D1292-8FC1-41BE-9740-DBC134F66415}</IdentifyingNumber>
+      <Name>Nero BackItUp Help (CHM)</Name>
+      <Version>12.0.13000</Version>
+      <Vendor>Nero AG</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Nero\</InstallLocation>
+      <URLInfoAbout>http://www.nero.com/</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{976C3D92-0DEC-37A6-A870-FF4FC18CD029}</IdentifyingNumber>
+      <Name>Microsoft .NET Framework 4.5.1 RC Multi-Targeting Pack for Windows Store Apps</Name>
+      <Version>4.5.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{E5CAE8D2-9F9F-3BEA-AA0F-B5B40611C704}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2013 x86 Debug Runtime - 12.0.21005</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{23127FE2-983D-305A-904D-89ED86D36269}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio Ultimate 2013</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{984022F2-9BCA-A41D-6A38-1AE658F01415}</IdentifyingNumber>
+      <Name>Windows Software Development Kit</Name>
+      <Version>8.100.26831</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{3352F4F2-B1D7-4788-B603-7A9BC4C00AE9}</IdentifyingNumber>
+      <Name>Preparación de Microsoft Visual Studio 2013</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{551AC8F2-FEA2-4B45-ACF7-C98681233CC9}</IdentifyingNumber>
+      <Name>Nero BackItUp 12 Essentials OEM.a01</Name>
+      <Version>12.5.01200</Version>
+      <Vendor>Nero AG</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Nero\</InstallLocation>
+      <URLInfoAbout>http://www.nero.com/</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A35D7103-E0AE-4421-98E9-3F5EEEED3B7D}</IdentifyingNumber>
+      <Name>Windows Phone 8.1 Tools for Visual Studio 2013 - ENU</Name>
+      <Version>12.0.30723</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C629CD13-3E1A-33A2-9515-23F7BF4C5D06}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio 2013 Add-in for Windows Phone - ENU Language Pack</Name>
+      <Version>12.0.30723</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{85253F13-EE42-4850-A3A5-79B90E92D7AC}</IdentifyingNumber>
+      <Name>Entity Framework 6.1.1 Tools  for Visual Studio 2013</Name>
+      <Version>12.0.30610.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{3EA16E23-14D2-466A-8268-D7CD40DC46B6}</IdentifyingNumber>
+      <Name>Open XML SDK 2.5 for Microsoft Office</Name>
+      <Version>2.5.5631</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>www.microsoft.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C3342033-211F-40DD-A03D-0E775B8DEA98}</IdentifyingNumber>
+      <Name>League of Legends</Name>
+      <Version>3.0.1</Version>
+      <Vendor>Riot Games</Vendor>
+      <InstallLocation>C:\Riot Games\League of Legends\</InstallLocation>
+      <URLInfoAbout>www.leagueoflegends.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{89AFB053-A343-46EF-97E4-D593AD7184E6}</IdentifyingNumber>
+      <Name>Intel® Trusted Connect Service Client</Name>
+      <Version>1.28.487.1</Version>
+      <Vendor>Intel Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{ABC88553-8770-4B97-B43E-5A90647A5B63}</IdentifyingNumber>
+      <Name>Nero ControlCenter</Name>
+      <Version>11.0.15900</Version>
+      <Vendor>Nero AG</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Nero\</InstallLocation>
+      <URLInfoAbout>http://www.nero.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A79F6653-6AF1-4AF2-BC15-F5D6C05E1E6A}</IdentifyingNumber>
+      <Name>Workflow Manager Tools 1.0 for Visual Studio</Name>
+      <Version>2.0.40326.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Workflow Manager Tools\1.0\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{CACAE653-28F5-4DDC-8720-E4B9BC792CC8}</IdentifyingNumber>
+      <Name>Microsoft Azure Mobile Services SDK</Name>
+      <Version>1.0.20703.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{5481F163-B9E5-30A8-8441-4DBBB87D6AA2}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2013 Microsoft Foundation Class Libraries</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{F17662A3-4569-4A61-ABD4-E51B632D3C4D}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio 2013 VsGraphics Helper Dependencies</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{3AAB08A3-F129-4BD5-B409-AE674F93759D}</IdentifyingNumber>
+      <Name>Prerequisite installer</Name>
+      <Version>12.0.0003</Version>
+      <Vendor>Nero AG</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Nero\</InstallLocation>
+      <URLInfoAbout>http://www.nero.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{492498A3-F88C-FE2F-755C-9B1B91724CA5}</IdentifyingNumber>
+      <Name>LocalESPC Dev12</Name>
+      <Version>8.100.25984</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{2EDC2FA3-1F34-34E5-9085-588C9EFD1CC6}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.60610</Name>
+      <Version>11.0.60610</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{837b34e3-7c30-493c-8f6a-2b0f04e2912c}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2005 Redistributable</Name>
+      <Version>8.0.59193</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{495D0BE3-CA66-4768-9D3E-7CDCA0C2B9F7}</IdentifyingNumber>
+      <Name>TypeScript Power Tool</Name>
+      <Version>1.0.3.1</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://www.typescriptlang.org</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{56AD3004-0B49-967F-F682-B05650B61A78}</IdentifyingNumber>
+      <Name>Windows Software Development Kit for Windows Store Apps DirectX x86 Remote</Name>
+      <Version>8.100.26831</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{F361FE04-789E-42F3-BBAB-E7B380AA5E06}</IdentifyingNumber>
+      <Name>Windows XP Targeting with C++</Name>
+      <Version>11.0.51106</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{4AE57014-05C4-4864-A13D-86517A7E1BA4}</IdentifyingNumber>
+      <Name>Microsoft .NET Framework 4.5 SDK</Name>
+      <Version>4.5.50710</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{9FB31124-1FD5-314B-8B91-E4ECC431E1D7}</IdentifyingNumber>
+      <Name>Visual Studio 2012-Verifizierungs-SDK - deu</Name>
+      <Version>12.0.30501</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{32BE8724-81C9-335D-A805-8A98DC566F27}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio Express 2013 para escritorio de Windows - ESN</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{E9674444-9491-3961-873C-017D8912185E}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio Professional 2013 - ENU</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{3D9CB654-99AD-4301-89C6-0D12A790767C}</IdentifyingNumber>
+      <Name>Identity Card</Name>
+      <Version>2.00.8100</Version>
+      <Vendor>Acer Incorporated</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://www.acer.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{3D7CA364-4B7C-352B-8A63-E12CA3AE6659}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio 2013 XAML UI Designer - ENU</Name>
+      <Version>12.0.30723</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{9C593464-7F2F-37B3-89F8-7E894E3B09EA}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio Professional 2013</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{B6A0A174-33E0-3D42-92EA-547D318CB149}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio 2013 Devenv</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{BF3E2194-F89B-44FB-A801-464BF787599F}</IdentifyingNumber>
+      <Name>WCF Data Services Tools for Microsoft Visual Studio 2013</Name>
+      <Version>5.6.61587.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{AF727A94-CAF6-4795-B379-C81229A5A34F}</IdentifyingNumber>
+      <Name>Microsoft LightSwitch v4.5 SDK</Name>
+      <Version>12.0.30626</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{6321F2D4-366B-3AE4-877A-8E539EC3331A}</IdentifyingNumber>
+      <Name>Visual F# 3.1 VS</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{E1FBB3D4-ADB0-4949-B101-855DA061C735}</IdentifyingNumber>
+      <Name>Microsoft Silverlight 5 SDK</Name>
+      <Version>5.0.61118.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{E12AD0E4-1FCD-4E23-A58A-C983B85E112A}</IdentifyingNumber>
+      <Name>TypeScript Tools for Microsoft Visual Studio 2013</Name>
+      <Version>1.0.3.1</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://www.typescriptlang.org</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{26A24AE4-039D-4CA4-87B4-2F83218031F0}</IdentifyingNumber>
+      <Name>Java 8 Update 31</Name>
+      <Version>8.0.310</Version>
+      <Vendor>Oracle Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://java.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{91F52DE4-B789-42B0-9311-A349F10E5479}</IdentifyingNumber>
+      <Name>Acer Power Management</Name>
+      <Version>7.00.8100</Version>
+      <Vendor>Acer Incorporated</Vendor>
+      <InstallLocation>C:\Program Files\Acer\Acer Power Management\</InstallLocation>
+      <URLInfoAbout>http://www.acer.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{04DD7AF4-A6D3-4E30-9BB9-3B3670719234}</IdentifyingNumber>
+      <Name>Microsoft SQL Server 2012 T-SQL Language Service</Name>
+      <Version>11.1.3000.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{96563105-F726-4865-8C32-416753ECA5F1}</IdentifyingNumber>
+      <Name>Microsoft Visual C++  x64-x86 Cross Compilers - ENU Resources</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{161D2A15-59BD-3B4F-B45F-C54F5D59B6A2}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio 2013 Add-in for Windows Phone</Name>
+      <Version>12.0.30723</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{6AC81125-8485-463D-9352-3F35A2508C11}</IdentifyingNumber>
+      <Name>Microsoft Advertising SDK for Windows Phone 8.1 XAML - ENU</Name>
+      <Version>8.1.40427.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{205A8E25-7ABE-30AB-929E-80A63A7AFBE3}</IdentifyingNumber>
+      <Name>Microsoft Portable Library Multi-Targeting Pack</Name>
+      <Version>12.0.30501.00</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{D2D0CD35-523F-3D07-8ADE-96A5B4B74485}</IdentifyingNumber>
+      <Name>Paquete de compatibilidad con múltiples versiones de Microsoft .NET Framework 4.5.1 (español)</Name>
+      <Version>4.5.50932</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{43D0C465-ACBB-4513-8D4B-B6D90209D0B6}</IdentifyingNumber>
+      <Name>Plantilla de redirección de Python Tools</Name>
+      <Version>1.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{E597B765-ECE1-D3D6-E757-90D8A4690CCF}</IdentifyingNumber>
+      <Name>Microsoft ASP.NET Web Frameworks and Tools - Visual Studio 2013 - ENU</Name>
+      <Version>5.2.20703.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{58FED865-4F13-408D-A5BF-996019C4B936}</IdentifyingNumber>
+      <Name>Microsoft SQL Server 2012 Command Line Utilities</Name>
+      <Version>11.1.3000.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{2F8DE575-AEF9-4E4F-BA30-65B2DFD7A6DA}</IdentifyingNumber>
+      <Name>Windows Phone 8.1 Tools for Visual Studio Professionald 2013 - ENU</Name>
+      <Version>12.0.30723</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{77E2D875-FD9E-3DEE-9A84-C34FDECB4ECA}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2012 x86 Debug Runtime - 11.0.60610</Name>
+      <Version>11.0.60610</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{540C3D75-5872-4441-AB09-BE3397B663BC}</IdentifyingNumber>
+      <Name>Python Tools Redirection Template</Name>
+      <Version>1.2</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C26C1495-8EBE-3F71-BDA1-7DE2010840D8}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio 2013 Devenv Resources</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{979C7495-FB42-484E-92EA-7F2A59DD7718}</IdentifyingNumber>
+      <Name>Microsoft ASP.NET MVC 4 - Visual Studio 2013 - ENU</Name>
+      <Version>4.1.21001.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C7B84BB5-B871-4020-9C0D-CB08D9B77526}</IdentifyingNumber>
+      <Name>Windows Phone 8.1 Tools for Visual Studio Professional 2013</Name>
+      <Version>12.0.30723</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{764384C5-BCA9-307C-9AAC-FD443662686A}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.60610</Name>
+      <Version>11.0.60610</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{69A998C5-00A9-42CA-AB4E-C31CFFCD9251}</IdentifyingNumber>
+      <Name>Microsoft Web Deploy 3.5</Name>
+      <Version>3.1237.1763</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{977CABC5-7B4B-3AE4-8E1B-56C673C1D638}</IdentifyingNumber>
+      <Name>Пакет Visual Studio 2012 Verification SDK - rus</Name>
+      <Version>12.0.30501</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{BB0D9EE5-F7B1-4986-AF62-DB3BED9A83BC}</IdentifyingNumber>
+      <Name>Microsoft Visual C++  x64 Native Compilers - ENU Resources</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{64484316-E4BA-38B3-8954-0358522A8D40}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio Express 2013 for Windows Desktop</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{43A5C316-9521-49C3-B9B6-FCE5E1005DF0}</IdentifyingNumber>
+      <Name>Microsoft SQL Server 2012 Management Objects  (x64)</Name>
+      <Version>11.1.3000.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{64297226-2B81-4588-89BD-76440BC0BCFC}</IdentifyingNumber>
+      <Name>Microsoft ASP.NET Web Pages 2 - Visual Studio 2013 - ENU</Name>
+      <Version>4.1.21001.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{929FBD26-9020-399B-9A7A-751D61F0B942}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{299CAA36-AED0-402E-8D85-E20D4FBB9B88}</IdentifyingNumber>
+      <Name>Build Tools Language Resources - amd64</Name>
+      <Version>12.0.30723</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A223B446-EC3D-3031-828D-5188800AB782}</IdentifyingNumber>
+      <Name>Microsoft .NET Framework 4.5.1 RC Multi-Targeting Pack for Windows Store Apps (ENU)</Name>
+      <Version>4.5.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{129CE446-6315-3DB0-AEF2-3EE0CA4C31AE}</IdentifyingNumber>
+      <Name>Visual Studio 2012 Verification SDK - enu</Name>
+      <Version>12.0.30501</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C994C746-C6D0-4EBA-B09E-DF7B18381B69}</IdentifyingNumber>
+      <Name>Nero ControlCenter Help (CHM)</Name>
+      <Version>12.0.12000</Version>
+      <Vendor>Nero AG</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Nero\</InstallLocation>
+      <URLInfoAbout>http://www.nero.com/</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{1690CE56-2231-4E59-9006-A0876D949EA8}</IdentifyingNumber>
+      <Name>Tools for .Net 3.5</Name>
+      <Version>3.11.50727</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{D1D7ED66-5C08-40A0-AEC0-B6DF977697BB}</IdentifyingNumber>
+      <Name>Broadcom NetLink Controller</Name>
+      <Version>16.2.1.2</Version>
+      <Vendor>Broadcom Corporation</Vendor>
+      <InstallLocation>C:\Program Files\Broadcom\</InstallLocation>
+      <URLInfoAbout>http://www.broadcom.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{7AE61976-6FE2-4B65-9E1C-4DE44288772B}</IdentifyingNumber>
+      <Name>Visual Studio Extensions for Windows Library for JavaScript</Name>
+      <Version>2.1.30723.00</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{5FCE6D76-F5DC-37AB-B2B8-22AB8CEDB1D4}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161</Name>
+      <Version>9.0.30729.6161</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A1CB8286-CFB3-A985-D799-721A0F2A27F3}</IdentifyingNumber>
+      <Name>Windows Software Development Kit DirectX x86 Remote</Name>
+      <Version>8.100.25984</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{46910786-E4AC-41E4-A4A0-C086EA85242D}</IdentifyingNumber>
+      <Name>WCF Data Services 5.6.0 Runtime</Name>
+      <Version>5.6.61587.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{AC76BA86-0804-1033-1959-001802114130}</IdentifyingNumber>
+      <Name>Adobe Refresh Manager</Name>
+      <Version>1.8.0</Version>
+      <Vendor>Adobe Systems Incorporated</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\</InstallLocation>
+      <URLInfoAbout>http://www.adobe.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{AC76BA86-7AD7-1034-7B44-AB0000000001}</IdentifyingNumber>
+      <Name>Adobe Reader XI (11.0.11) - Español</Name>
+      <Version>11.0.11</Version>
+      <Vendor>Adobe Systems Incorporated</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Adobe\Reader 11.0\Reader\</InstallLocation>
+      <URLInfoAbout>http://www.adobe.es/products/acrobat/main.html</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{1B876496-B3A2-4D22-9B12-B608A3FD4B8B}</IdentifyingNumber>
+      <Name>Microsoft SQL Server 2012 Data-Tier App Framework</Name>
+      <Version>11.1.2902.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{EBC890A6-DE7C-44B4-AA03-119B6190D3E1}</IdentifyingNumber>
+      <Name>Blend for Visual Studio 2013</Name>
+      <Version>12.0.41002.1</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Visual Studio 12.0\Blend\</InstallLocation>
+      <URLInfoAbout>http://go.microsoft.com/fwlink/?LinkID=75064</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{DB9620B6-CBBE-433C-A769-5617C40862A8}</IdentifyingNumber>
+      <Name>Windows Phone 8.1 SDK - ARM</Name>
+      <Version>8.1.12358</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{5FC87FB6-2E37-4EBB-8D4A-B128A4C12FA6}</IdentifyingNumber>
+      <Name>Paquete de idioma de herramientas de servicios móviles de Microsoft Azure para Visual Studio - v1.2</Name>
+      <Version>1.2.20710.1601</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{EFC97BC6-345A-4861-ACD5-0D3181252924}</IdentifyingNumber>
+      <Name>OpenOffice 4.1.1</Name>
+      <Version>4.11.9775</Version>
+      <Vendor>Apache Software Foundation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\OpenOffice 4\</InstallLocation>
+      <URLInfoAbout>http://www.openoffice.org</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{35C1D9D6-87C0-46A3-B1B4-EDBCC063221C}</IdentifyingNumber>
+      <Name>Prerequisites for SSDT</Name>
+      <Version>11.1.3000.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{9BE518E6-ECC6-35A9-88E4-87755C07200F}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161</Name>
+      <Version>9.0.30729.6161</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A749D8E6-B613-3BE3-8F5F-045C84EBA29B}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{2F7DBBE6-8EBC-495C-9041-46A772F4E311}</IdentifyingNumber>
+      <Name>Microsoft SQL Server 2012 Management Objects</Name>
+      <Version>11.1.3000.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{B47797F6-4C28-3F32-83DC-2784335CA487}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio 2010 Tools for Office Runtime (x64)</Name>
+      <Version>10.0.40825</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022</Name>
+      <Version>9.0.21022</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{65BB0407-4CC8-4DC7-952E-3EEFDF05602A}</IdentifyingNumber>
+      <Name>Nero Update</Name>
+      <Version>11.0.11800.31.0</Version>
+      <Vendor>Nero AG</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Nero\</InstallLocation>
+      <URLInfoAbout>http://www.nero.com/</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{77A85707-C1BA-44DA-915D-CE68AE058A78}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio 2013 Profiling Tools</Name>
+      <Version>12.0.30723</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{0B6BDD27-3097-4FE1-BDE6-1D5EC7399563}</IdentifyingNumber>
+      <Name>Visual Studio 2013 Prerequisites</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{B1C38F27-D377-8C98-D98D-29B67C0B978D}</IdentifyingNumber>
+      <Name>LocalESPCui for en-us Dev12</Name>
+      <Version>8.100.25984</Version>
+      <Vendor>Microsoft</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{84D88F57-4130-30FE-A0B6-1E04428FE1F6}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2013 Core Libraries</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{2F1FC167-2D88-3E8A-85AE-2D23DA16DFAF}</IdentifyingNumber>
+      <Name>Visual Studio 2012 Verification SDK - ita</Name>
+      <Version>12.0.30501</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A1D06677-1103-32DE-AA74-6EE44DCF7F81}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2013 Extended Libraries</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{2C5DC777-D62C-427D-8CC6-90331A734E91}</IdentifyingNumber>
+      <Name>Build Tools - amd64</Name>
+      <Version>12.0.30723</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{6DC8C487-0D06-3925-88A6-2D0CFA97F1F9}</IdentifyingNumber>
+      <Name>Microsoft ASP.NET and Web Tools 2013.3 - Visual Studio 12 - esn</Name>
+      <Version>12.3.50717.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{9B3A1C97-A361-463E-8817-444F9F88CDFE}</IdentifyingNumber>
+      <Name>Microsoft Expression Blend SDK for .NET 4</Name>
+      <Version>2.0.20525.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft SDKs\Expression\Blend\</InstallLocation>
+      <URLInfoAbout>http://go.microsoft.com/fwlink/?LinkID=75064</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A1CFE5F7-07CA-44D6-B553-BE22B180F660}</IdentifyingNumber>
+      <Name>Build Tools - x86</Name>
+      <Version>12.0.30723</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{16222DF7-8513-491E-91F0-F489AB2D3CB0}</IdentifyingNumber>
+      <Name>Visual Studio 2013 Prerequisites - ENU Language Pack</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C1D0E508-ECAF-45AA-A549-1E26B9ECE0FB}</IdentifyingNumber>
+      <Name>Microsoft Visual C++  x64-x86 Cross Compilers</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C596D608-3E74-3232-8CA5-DF1DCB9F10DE}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2013 x64 Debug Runtime - 12.0.21005</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{95176218-0F93-3376-912E-B82DACCEA01B}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2013  x64 Designtime - 12.0.21005</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{30406318-C317-3AAF-899B-E7D0CEB6F548}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio 2013 XAML UI Designer</Name>
+      <Version>12.0.30723</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{13885028-098C-4799-9B71-27DAC96502D5}</IdentifyingNumber>
+      <Name>Acer Remote Files</Name>
+      <Version>1.00.3007</Version>
+      <Vendor>Acer Incorporated</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://www.acer.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{49055838-1EF5-40BB-89B6-8E3456B3E817}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio 2013 Performance Collection Tools - ENU</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{E2A55448-78B4-3467-8CC4-93CE5359B2D1}</IdentifyingNumber>
+      <Name>Microsoft Office 2013 Developer Tools for Microsoft Visual Studio (x64) - ENU Language Pack</Name>
+      <Version>12.0.30626</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{86ECF748-4257-4012-870B-0CA2C1D864D4}</IdentifyingNumber>
+      <Name>Microsoft Azure Shared Components for Visual Studio 2013 Language Pack (ENU) - v1.2</Name>
+      <Version>1.2.20710.1601</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{0B698858-DAB0-4F9E-A10A-125B274EDA06}</IdentifyingNumber>
+      <Name>Microsoft Visual C++  x64 Libraries</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{6544FA58-6E04-4F92-95C8-7952D7C19635}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio 2013 IntelliTrace Front End</Name>
+      <Version>12.0.30723</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{DA2D3078-A58C-45E8-8EE0-18B8BE6B34F7}</IdentifyingNumber>
+      <Name>Nero BackItUp</Name>
+      <Version>12.5.11000</Version>
+      <Vendor>Nero AG</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Nero\</InstallLocation>
+      <URLInfoAbout>http://www.nero.com/</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A7E87388-3512-4D9C-9BBA-284C3577CBE9}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2012 Compilers</Name>
+      <Version>11.0.60610</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{E86C1C88-4AAB-3399-B30A-4A8F91D912AF}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio 2013 Express Prerequisites x64 - ESN</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{30CA1298-0F2A-45CD-8720-6AD0DC3283AD}</IdentifyingNumber>
+      <Name>Microsoft Azure Shared Components for Visual Studio 2013 - v1.2</Name>
+      <Version>1.2.20710.1601</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{5D8DD6A8-C4D7-4554-93F9-F1CC28C72600}</IdentifyingNumber>
+      <Name>WCF RIA Services V1.0 SP2</Name>
+      <Version>4.1.62812.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{CFEF48A8-BFB8-3EAC-8BA5-DE4F8AA267CE}</IdentifyingNumber>
+      <Name>Microsoft .NET Framework 4 Multi-Targeting Pack</Name>
+      <Version>4.0.30319</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{01BFA7D8-F302-35D9-8DAC-667AFF83CA31}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio Ultimate 2013 XAML UI Designer esn Resources</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{65B188D8-23E3-3939-9632-7F7A1F3B6DF8}</IdentifyingNumber>
+      <Name>Paquete de idioma de Microsoft Visual Studio 2013 Team Explorer - ESN</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{560D1BE8-7A52-3F63-91B3-E785E5A2175D}</IdentifyingNumber>
+      <Name>Microsoft Team Foundation Server 2013 Update 3 Object Model (x64)</Name>
+      <Version>12.0.30723</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{05FF8209-C4F1-4C77-BC28-791653156D20}</IdentifyingNumber>
+      <Name>Microsoft System CLR Types for SQL Server 2012 (x64)</Name>
+      <Version>11.1.3366.16</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A8229A09-E570-412B-8D18-E78985673E34}</IdentifyingNumber>
+      <Name>Microsoft Visual C++  ARM Libraries</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{388E4B09-3E71-4649-8921-F44A3A2954A7}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio 2005 Tools for Office Runtime</Name>
+      <Version>8.0.60940.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{B3C98C29-A2BE-455F-9285-13B745282271}</IdentifyingNumber>
+      <Name>Microsoft Visual C++  x64-arm Cross Compilers - ENU Resources</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A92DAB39-4E2C-4304-9AB6-BC44E68B55E2}</IdentifyingNumber>
+      <Name>Google Update Helper</Name>
+      <Version>1.3.25.11</Version>
+      <Vendor>Google Inc.</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{72076159-B94A-42AE-A64C-CA3855E9CB28}</IdentifyingNumber>
+      <Name>Windows Azure Tools for LightSwitch for Visual Studio 2013 - v2.1</Name>
+      <Version>2.1.10909.1601</Version>
+      <Vendor>Microsoft</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{D3A828A9-FD4A-4463-9CB0-9673C682A0C7}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2012 32bit Compilers - ENU Resources</Name>
+      <Version>11.0.60610</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{7BF61FA9-BDFB-4563-98AD-FCB0DA28CCC7}</IdentifyingNumber>
+      <Name>IIS 8.0 Express</Name>
+      <Version>8.0.1557</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{E462BBB9-2FA4-322D-84A8-51A83AB4695D}</IdentifyingNumber>
+      <Name>Microsoft NuGet - Visual Studio Express 2013 for Windows Desktop</Name>
+      <Version>2.8.50313.46</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{D411E9C9-CE62-4DBF-9D92-4CB22B750ED5}</IdentifyingNumber>
+      <Name>Microsoft SQL Server 2012 Native Client</Name>
+      <Version>11.1.3000.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{6ce5bae9-d3ca-4b99-891a-1dc6c118a5fc}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2005 Redistributable (x64)</Name>
+      <Version>8.0.59192</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{31FF5BE9-F816-389E-A95A-7F362878A039}</IdentifyingNumber>
+      <Name>Visual Studio 2012 Verification SDK - chs</Name>
+      <Version>12.0.30501</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{6C06FEE9-C64E-453F-B8A5-D9E9B79ED040}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2013 32bit Compilers - ENU Resources</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{8A3862F9-F587-3DFA-AAFC-C1F0E116F05C}</IdentifyingNumber>
+      <Name>Kit SDK de vérification de Visual Studio 2012 - fra</Name>
+      <Version>12.0.30501</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{60EC980A-BDA2-4CB6-A427-B07A5498B4CA}</IdentifyingNumber>
+      <Name>Google Update Helper</Name>
+      <Version>1.3.27.5</Version>
+      <Vendor>Google Inc.</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{FFC6E93A-B9AD-3F20-9B06-EE20E24AAEAF}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2012 Core Libraries</Name>
+      <Version>11.0.51106</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{DA0E1A3A-2148-45BD-BE86-0E9E7749FB6D}</IdentifyingNumber>
+      <Name>Microsoft .NET Framework 4.5 SDK - Paquete de idioma ESN</Name>
+      <Version>4.5.50710</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{B87A354A-22FF-499A-8CF5-AD704773FE0C}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio 2013 IntelliTrace (x86)</Name>
+      <Version>12.0.30723</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C263C94A-83B1-431C-8BF5-2E9BEB9311D2}</IdentifyingNumber>
+      <Name>Memory Profiler</Name>
+      <Version>12.0.30723</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{07F2005A-8CAC-4A4B-83A2-DA98A722CA61}</IdentifyingNumber>
+      <Name>Recovery Management</Name>
+      <Version>6.00.8100</Version>
+      <Vendor>Acer Incorporated</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://www.acer.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{96F4525A-470D-F15C-796E-58D9988C3E5F}</IdentifyingNumber>
+      <Name>Windows Software Development Kit for Windows Store Apps DirectX x64 Remote</Name>
+      <Version>8.100.26831</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{2F8F489A-0476-3129-857B-A553F38B192D}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2012 Core Libraries</Name>
+      <Version>11.0.51106</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{D42681AA-BC16-3C84-949E-45F05D2AA997}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2013 Core Libraries</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{99FE08AA-78DF-3A2D-8E90-D6F7938298A2}</IdentifyingNumber>
+      <Name>Microsoft NuGet - Visual Studio 2013</Name>
+      <Version>2.8.50313.46</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{AE937DBA-FEFD-3BFE-9860-0591C0F91D61}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio 2013 Shell (Minimum) Interop Assemblies</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{18F675EA-CB03-462D-A04B-3832DBAB5318}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2012 Compilers - ENU Resources</Name>
+      <Version>11.0.60610</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{492FCC0B-45E1-383A-A2CF-9E7F305AC200}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio 2013 Team Explorer Language Pack - ENU</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{54C5041B-0E91-4E92-8417-AAA12493C790}</IdentifyingNumber>
+      <Name>Microsoft SQL Server 2012 Transact-SQL ScriptDom</Name>
+      <Version>11.1.3000.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{97CF5B1B-FCCD-4D5C-9FD9-3025CCB793DF}</IdentifyingNumber>
+      <Name>Application Insights Tools for Visual Studio 2013</Name>
+      <Version>2.1</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{B536762B-1047-4B51-8ECF-46D5686E5416}</IdentifyingNumber>
+      <Name>Microsoft ASP.NET Web Pages 2 Runtime</Name>
+      <Version>2.0.20716.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C95DA72B-814E-3A55-BA6C-DF0202CAB9F0}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio Team Foundation Server 2013 Storyboarding Language Pack (x64) - ENU</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A746814B-72C2-3F26-9C9F-3DA5853C6E9E}</IdentifyingNumber>
+      <Name>Paquete de idioma del Modelo de objetos de Microsoft Team Foundation Server 2013 Update 3 (x64) - ESN</Name>
+      <Version>12.0.30723</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{7754915B-C85B-458C-B531-48E286DE96E6}</IdentifyingNumber>
+      <Name>Build Tools Language Resources - x86</Name>
+      <Version>12.0.30723</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{3B44836B-37DC-3527-962F-F538B6907EF2}</IdentifyingNumber>
+      <Name>Paquete de idioma de Visor de Ayuda de Microsoft 2.1 - ESN</Name>
+      <Version>2.1.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{6781FF9B-E87D-4A03-9373-A55A288B83FA}</IdentifyingNumber>
+      <Name>Microsoft SQL Server Data Tools Build Utilities - enu (12.0.30919.1)</Name>
+      <Version>12.0.30919.1</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{1E30CCBB-0773-38D3-8433-C426EF2C0FF0}</IdentifyingNumber>
+      <Name>VS Update core components</Name>
+      <Version>12.0.30723</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{605FFCBB-EC5A-485C-B27E-189F1C8A96E5}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2012 x86-x64 Compilers</Name>
+      <Version>11.0.60610</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A3B8D9FB-CA7D-4487-8CA2-A6A2C8AD1077}</IdentifyingNumber>
+      <Name>Microsoft Visual C++  x86 Libraries</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{0D7FCBFB-F478-4D32-901C-83F0BF5A3501}</IdentifyingNumber>
+      <Name>Microsoft SQL Server Data Tools - enu (12.0.30919.1)</Name>
+      <Version>12.0.30919.1</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C4F2AFFB-30AB-4365-B150-F05B94975F84}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2013 32bit Compilers - ESN Resources</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{B175520C-86A2-35A7-8619-86DC379688B9}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030</Name>
+      <Version>11.0.61030</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{5411060C-8F8C-393D-8D3B-26AF2C92FABB}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio 2013 Shell (Minimum)</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{30F2491C-9410-4DB1-BE66-77B360B1F484}</IdentifyingNumber>
+      <Name>Microsoft Visual C++  x64-arm Cross Compilers</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{3FBFCF2C-392A-4632-9442-14C305B44D5E}</IdentifyingNumber>
+      <Name>AzureTools.Notifications</Name>
+      <Version>2.1.10731.1602</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{258D234C-B230-4B97-AAA6-6A17E63254E2}</IdentifyingNumber>
+      <Name>Microsoft Azure Mobile Services Tools for Visual Studio - v1.2</Name>
+      <Version>1.2.20710.1601</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{9ED1634C-4E71-4992-A1BA-7C4BE6EE39E1}</IdentifyingNumber>
+      <Name>Blend for Visual Studio 2013 ENU resources</Name>
+      <Version>12.0.41002.1</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Visual Studio 12.0\Blend\</InstallLocation>
+      <URLInfoAbout>http://go.microsoft.com/fwlink/?LinkID=75064</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{027AC54C-F085-4964-A51B-755D1C1840C7}</IdentifyingNumber>
+      <Name>Microsoft Azure Tools for LightSwitch for Visual Studio 2013 - June 2014 Update - v2.4</Name>
+      <Version>2.4.20623.1601</Version>
+      <Vendor>Microsoft</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C47A1D4C-13B1-3E81-A367-83FB8F4FBF8E}</IdentifyingNumber>
+      <Name>Visual Studio 2012 Verification SDK - jpn</Name>
+      <Version>12.0.30501</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C1612E8C-A31A-3E5C-ACF2-223E0F373AEB}</IdentifyingNumber>
+      <Name>Microsoft Office Developer Tools for Visual Studio</Name>
+      <Version>12.0.30626</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{070C38AC-05CE-43DF-9A20-141332F6AB2B}</IdentifyingNumber>
+      <Name>Microsoft System CLR Types for SQL Server 2012</Name>
+      <Version>11.1.3366.16</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{E8BB81BC-E67C-4750-84EE-128DA5A7ADA5}</IdentifyingNumber>
+      <Name>Oracle VM VirtualBox 4.3.28</Name>
+      <Version>4.3.28</Version>
+      <Vendor>Oracle Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>http://www.virtualbox.org</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{18976EBC-40B7-40CB-A55C-99114758073A}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio 2013 Diagnostic Tools - x86</Name>
+      <Version>12.0.30723</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{0398BFBC-991B-3275-9463-D2BF91B3C80B}</IdentifyingNumber>
+      <Name>Microsoft Help Viewer 2.1</Name>
+      <Version>2.1.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{5CBE79CC-5F78-4AC2-AEB0-62F939D869CC}</IdentifyingNumber>
+      <Name>Windows Phone 8.1 SDK - x64</Name>
+      <Version>8.1.12358</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{4B6634DC-5879-394F-8951-F339F29DE21C}</IdentifyingNumber>
+      <Name>Microsoft SharePoint 2013 Developer Tools for Visual Studio 2012 Nuget Package</Name>
+      <Version>12.0.30626</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{993F6DDC-63F8-4BCD-9B28-D941971A9CAC}</IdentifyingNumber>
+      <Name>Windows XP Targeting with C++</Name>
+      <Version>11.0.51106</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{9E1237EC-349B-4B46-AB7B-171F843BCFCC}</IdentifyingNumber>
+      <Name>System Requirements Lab Detection</Name>
+      <Version>2.1.1.0</Version>
+      <Vendor>Husdawg, LLC</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{D7126FFC-90BA-4120-8FFB-3688C9931A09}</IdentifyingNumber>
+      <Name>Microsoft SQL Server Compact 4.0 SP1 x64 ESN</Name>
+      <Version>4.0.8876.1</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files\Microsoft SQL Server Compact Edition\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{E4DEB20D-CACC-4906-B0FC-0952D5A9CBF1}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio 2013 Diagnostic Tools - amd64</Name>
+      <Version>12.0.30723</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{9A25302D-30C0-39D9-BD6F-21E6EC160475}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17</Name>
+      <Version>9.0.30729</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{B503082D-B4CD-32E5-A97C-AB10D2E9111A}</IdentifyingNumber>
+      <Name>Microsoft Portable Library Multi-Targeting Pack Language Pack - enu</Name>
+      <Version>12.0.30501.00</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{24CA683D-8174-4EBF-AD4D-3F2DD7814716}</IdentifyingNumber>
+      <Name>Microsoft Exchange Web Services Managed API 2.1</Name>
+      <Version>15.0.847.30</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{BEBEE34D-84A2-4EDD-8BEA-96CC54371263}</IdentifyingNumber>
+      <Name>Nero Core Components</Name>
+      <Version>11.0.20900</Version>
+      <Vendor>Nero AG</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Nero\</InstallLocation>
+      <URLInfoAbout>http://www.nero.com/</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{491D1B4D-F605-3C92-A313-5B9A05681E23}</IdentifyingNumber>
+      <Name>Windows Phone SDK 8.0 Assemblies</Name>
+      <Version>12.0.30723</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{19A5926D-66E1-46FC-854D-163AA10A52D3}</IdentifyingNumber>
+      <Name>Microsoft .NET Framework 4.5.1 SDK</Name>
+      <Version>4.5.51641</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{EBD9DB6D-180B-4C59-9622-B75CC4B32C94}</IdentifyingNumber>
+      <Name>Microsoft Advertising Service Extension for Visual Studio</Name>
+      <Version>12.0.40402.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{89F4137D-6C26-4A84-BDB8-2E5A4BB71E00}</IdentifyingNumber>
+      <Name>Microsoft Silverlight</Name>
+      <Version>5.1.20513.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>c:\Program Files (x86)\Microsoft Silverlight\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{594DB57D-58D1-4AA3-AE6C-BF99484F52F8}</IdentifyingNumber>
+      <Name>Behaviors SDK (Windows Phone) for Visual Studio 2013</Name>
+      <Version>12.0.50716.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{6B9C618D-5762-496B-A297-F661F9D9F363}</IdentifyingNumber>
+      <Name>Microsoft SQL Server Data Tools - ESN (12.0.30919.1)</Name>
+      <Version>12.0.30919.1</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{EB25848D-AADC-40D7-914E-CB2E25AB5E59}</IdentifyingNumber>
+      <Name>Microsoft ASP.NET MVC 4 Runtime</Name>
+      <Version>4.0.20716.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{645DEE8D-9C73-A3EE-A82F-1CF81C81F89C}</IdentifyingNumber>
+      <Name>Doomi</Name>
+      <Version>3.3</Version>
+      <Vendor>UNKNOWN</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Doomi</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{AAFF73AD-3432-3575-ABD1-14E48EF2F4CB}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2012 x64 Debug Runtime - 11.0.60610</Name>
+      <Version>11.0.60610</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{BD95A8CD-1D9F-35AD-981A-3E7925026EBB}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030</Name>
+      <Version>11.0.61030</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{DEBF18DD-F351-3FC3-9BF4-8B20AC2EF5EF}</IdentifyingNumber>
+      <Name>Visual Studio 2012 유효성 검사 SDK - kor</Name>
+      <Version>12.0.30501</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{D4E77BFD-ECA9-40BB-89DC-1367B4139227}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio 2013 Preparation</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{695D970E-3359-3B8F-AEA5-8988DC0CC81B}</IdentifyingNumber>
+      <Name>Microsoft Office Developer Tools for Visual Studio ENU Language Pack</Name>
+      <Version>12.0.30626</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C9E7751E-88ED-36CF-B610-71A1D262E906}</IdentifyingNumber>
+      <Name>Team Explorer for Microsoft Visual Studio 2013</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{E6F3851E-CEEB-4ECB-A6FA-337C8F662E3D}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2013 Compilers - ENU Resources</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{7B77622E-DE90-48EA-B2C7-227B1DE58A01}</IdentifyingNumber>
+      <Name>Adobe AIR</Name>
+      <Version>16.0.0.245</Version>
+      <Vendor>Adobe Systems Incorporated</Vendor>
+      <InstallLocation>c:\Program Files (x86)\Common Files\Adobe AIR\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{2386192E-D6DB-4AD2-9564-65586A0AE53E}</IdentifyingNumber>
+      <Name>Dotfuscator and Analytics Community Edition</Name>
+      <Version>5.5.4954.46574</Version>
+      <Vendor>PreEmptive Solutions</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90311C2E-692F-3DD4-8A47-AA6F0E5962D3}</IdentifyingNumber>
+      <Name>Microsoft LightSwitch for Visual Studio 2013 CoreRes - ENU</Name>
+      <Version>12.0.30626</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A6BA243E-85A3-4635-A269-32949C98AC7F}</IdentifyingNumber>
+      <Name>Microsoft SQL Server 2012 Data-Tier App Framework  (x64)</Name>
+      <Version>11.1.2902.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{4781443E-204D-4D98-8899-18A123C13B1E}</IdentifyingNumber>
+      <Name>Microsoft C++ REST SDK for Visual Studio 2013</Name>
+      <Version>1.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{53A4773E-6FEF-3754-95F8-EA369D13A4B7}</IdentifyingNumber>
+      <Name>Microsoft Office 2013 Developer Tools for Microsoft Visual Studio (x64)</Name>
+      <Version>12.0.30626</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{90EF884E-5253-324C-9C11-63C9DA16BF0C}</IdentifyingNumber>
+      <Name>SDK de comprobación de Visual Studio 2012 - esn</Name>
+      <Version>12.0.30501</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{5247E16E-BCF8-95AB-1653-B3F8FBF8B3F1}</IdentifyingNumber>
+      <Name>Windows Software Development Kit DirectX x64 Remote</Name>
+      <Version>8.100.25984</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{F58FA66E-86F8-4BEA-9E6D-FAE8E0FB86BA}</IdentifyingNumber>
+      <Name>Windows Phone 8.1 SDK - Desktop</Name>
+      <Version>8.1.12358</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft XDE\8.1\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{AD6FD3BE-0C61-A16B-CBB3-0F8897163DCA}</IdentifyingNumber>
+      <Name>Microsoft ASP.NET Web Frameworks and Tools - Visual Studio 2013 - ESN</Name>
+      <Version>5.2.20703.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C4CAE1DE-77C8-32A7-A347-52DB738F0DE1}</IdentifyingNumber>
+      <Name>Visual Studio 2012 Verification SDK</Name>
+      <Version>12.0.30723</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{93DF97DE-12CD-4D43-9192-C5D31E116303}</IdentifyingNumber>
+      <Name>Memory Profiler</Name>
+      <Version>12.0.30723</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{4701DEDE-1888-49E0-BAE5-857875924CA2}</IdentifyingNumber>
+      <Name>Microsoft SQL Server System CLR Types (x64)</Name>
+      <Version>10.50.1600.1</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{1E4064EE-26B4-341E-9208-72859FCDE1DA}</IdentifyingNumber>
+      <Name>Microsoft Visual Studio Team Foundation Server 2013 Storyboarding (x64)</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{1DAC84FE-C654-4C1E-8390-93D839D38C77}</IdentifyingNumber>
+      <Name>Microsoft SQL Server Data Tools Build Utilities - ESN (12.0.30919.1)</Name>
+      <Version>12.0.30919.1</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{8220EEFE-38CD-377E-8595-13398D740ACE}</IdentifyingNumber>
+      <Name>Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17</Name>
+      <Version>9.0.30729</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{28C7344F-E894-4CF5-8D05-EDC7ED71796C}</IdentifyingNumber>
+      <Name>Behaviors SDK (Windows) for Visual Studio 2013</Name>
+      <Version>12.0.50429.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{F395FD4F-40E5-7B56-2BCB-B3CF52B3B52C}</IdentifyingNumber>
+      <Name>Windows App Certification Kit x64</Name>
+      <Version>8.100.26795</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C1FA525F-D701-4B31-9D32-504FC0CF0B98}</IdentifyingNumber>
+      <Name>Acer Quick Access</Name>
+      <Version>1.00.3000</Version>
+      <Vendor>Acer Incorporated</Vendor>
+      <InstallLocation>C:\Program Files\Acer\Acer Quick Access\</InstallLocation>
+      <URLInfoAbout>http://www.acer.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{3169A65F-9DA5-331A-ACCE-D970F9020404}</IdentifyingNumber>
+      <Name>Visual Studio 2012 驗證 SDK - cht</Name>
+      <Version>12.0.30501</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{F6544F5F-7452-4A76-A118-DE43FDFD08DE}</IdentifyingNumber>
+      <Name>Microsoft LightSwitch for Visual Studio 2013 v4.5 ToolsRes - ENU</Name>
+      <Version>12.0.30626</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A5ABAF5F-B5B6-44B3-B69F-2E13DC60FC9F}</IdentifyingNumber>
+      <Name>Workflow Manager Client 1.0</Name>
+      <Version>2.0.40131.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files\Reference Assemblies\Microsoft\Workflow Manager\1.0\</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{4A03706F-666A-4037-7777-5F2748764D10}</IdentifyingNumber>
+      <Name>Java Auto Updater</Name>
+      <Version>2.8.31.13</Version>
+      <Vendor>Oracle Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{0C03A66F-1FF0-45F9-8D67-0D806EBFFBA1}</IdentifyingNumber>
+      <Name>Blend for Visual Studio SDK for Silverlight 5</Name>
+      <Version>3.0.40218.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Microsoft Visual Studio 11.0\Blend\</InstallLocation>
+      <URLInfoAbout>http://go.microsoft.com/fwlink/?LinkID=75064</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{C0B7DA6F-29E2-4C99-84BC-836E7AE76883}</IdentifyingNumber>
+      <Name>Microsoft LightSwitch for Visual Studio 2013 v4.5 Tools</Name>
+      <Version>12.0.30626</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{67AA948F-8D83-4566-B84A-7CAABCF64E3F}</IdentifyingNumber>
+      <Name>Broadcom Card Reader Driver Installer</Name>
+      <Version>16.0.2.8</Version>
+      <Vendor>Broadcom Corporation</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Broadcom\</InstallLocation>
+      <URLInfoAbout>http://www.broadcom.com</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{0E4630AF-0AB7-440E-A978-1A78FC4F43B9}</IdentifyingNumber>
+      <Name>Nero Launcher</Name>
+      <Version>12.2.7000</Version>
+      <Vendor>Nero AG</Vendor>
+      <InstallLocation>C:\Program Files (x86)\Nero\</InstallLocation>
+      <URLInfoAbout>http://www.nero.com/</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{DE0E8FAF-9758-4BFD-A16E-009DB4B8C912}</IdentifyingNumber>
+      <Name>Microsoft Visual C++  x64 Native Compilers</Name>
+      <Version>12.0.21005</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{A47FD1BF-A815-4A76-BE65-53A15BD5D25D}</IdentifyingNumber>
+      <Name>Microsoft SQL Server System CLR Types</Name>
+      <Version>10.50.1600.1</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{F99F24BF-0B90-463E-9658-3FD2EFC3C992}</IdentifyingNumber>
+      <Name>Microsoft Identity Extensions</Name>
+      <Version>2.0.1459.0</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+    <program>
+      <IdentifyingNumber>{EDC516BF-EA86-36C7-96BD-8AC103496178}</IdentifyingNumber>
+      <Name>Microsoft Team Foundation Server 2013 Update 3 Object Model Language Pack (x64) - ENU</Name>
+      <Version>12.0.30723</Version>
+      <Vendor>Microsoft Corporation</Vendor>
+      <InstallLocation>N/A</InstallLocation>
+      <URLInfoAbout>N/A</URLInfoAbout>
+    </program>
+  </sw>
+</components>

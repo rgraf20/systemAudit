@@ -1,0 +1,12 @@
+K:\vsProjects\projecte\GetMachineInfoFinal\GetMachineInfoFinal\bin\Debug\GetMachineInfoFinal.exe.config
+K:\vsProjects\projecte\GetMachineInfoFinal\GetMachineInfoFinal\bin\Debug\GetMachineInfoFinal.exe
+K:\vsProjects\projecte\GetMachineInfoFinal\GetMachineInfoFinal\bin\Debug\GetMachineInfoFinal.pdb
+K:\vsProjects\projecte\GetMachineInfoFinal\GetMachineInfoFinal\obj\Debug\GetMachineInfoFinal.csprojResolveAssemblyReference.cache
+K:\vsProjects\projecte\GetMachineInfoFinal\GetMachineInfoFinal\obj\Debug\GetMachineInfoFinal.exe
+K:\vsProjects\projecte\GetMachineInfoFinal\GetMachineInfoFinal\obj\Debug\GetMachineInfoFinal.pdb
+C:\Users\Ruben\Desktop\projecteDAW\GetMachineInfoFinal\GetMachineInfoFinal\bin\Debug\GetMachineInfoFinal.exe.config
+C:\Users\Ruben\Desktop\projecteDAW\GetMachineInfoFinal\GetMachineInfoFinal\obj\Debug\GetMachineInfoFinal.exe
+C:\Users\Ruben\Desktop\projecteDAW\GetMachineInfoFinal\GetMachineInfoFinal\obj\Debug\GetMachineInfoFinal.pdb
+C:\Users\Ruben\Desktop\projecteDAW\GetMachineInfoFinal\GetMachineInfoFinal\bin\Debug\GetMachineInfoFinal.exe
+C:\Users\Ruben\Desktop\projecteDAW\GetMachineInfoFinal\GetMachineInfoFinal\bin\Debug\GetMachineInfoFinal.pdb
+C:\Users\Ruben\Desktop\projecteDAW\GetMachineInfoFinal\GetMachineInfoFinal\obj\Debug\GetMachineInfoFinal.csprojResolveAssemblyReference.cache
